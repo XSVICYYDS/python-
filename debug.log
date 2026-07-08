@@ -1,0 +1,941 @@
+[26328:16152:0227/090606.556:WARNING:t_skinfilemap.cpp(56)] SGRenderLog:CheckUpdate newMem.OpenMem failed, szNewMem:Local\sgime_skin.v3.filemap.sogouime err:ç³»ç»Ÿé”™è¯¯2: ç³»ç»Ÿæ‰¾ä¸åˆ°æŒ‡å®šçš„æ–‡ä»¶ã€‚  
+æ‰“å¼€Filemapå¤±è´¥: Local\sgime_skin.v3.filemap.sogouime2558e362e17
+[26328:16152:0227/090606.556:WARNING:t_skinfilemap.cpp(65)] SGRenderLog:CheckUpdate finish: old version:1
+[26328:16152:0227/090606.556:WARNING:t_skinfilemap.cpp(67)] SGRenderLog:CheckUpdate finish: new version:3
+[26328:16152:0227/090606.975:WARNING:t_skinfilemap.cpp(63)] SGRenderLog:CheckUpdate newMem.OpenMem Suc, szNewMem:Local\sgime_skin.Dpi192.v3.filemap.sogouime
+[26328:16152:0227/090606.975:WARNING:t_skinfilemap.cpp(65)] SGRenderLog:CheckUpdate finish: old version:3
+[26328:16152:0227/090607.001:WARNING:t_skinfilemap.cpp(67)] SGRenderLog:CheckUpdate finish: new version:3
+2026-03-01 08:58:09,407 - MalteseDesktopPet - INFO - Ä£Ê½ÇĞ»»: ÇĞ»»µ½¸úËæÄ£Ê½
+2026-03-01 08:58:09,408 - MalteseDesktopPet - INFO - ¸úËæÄ£Ê½: Í£Ö¹³èÎïµÄËæ»ú»î¶¯
+2026-03-01 08:58:09,408 - MalteseDesktopPet - INFO - ¸úËæÄ£Ê½: Æô¶¯¸úËæ¶¨Ê±Æ÷£¬Ö¡ÂÊÔ¼60FPS
+2026-03-01 08:58:09,408 - MalteseDesktopPet - INFO - ¸úËæÄ£Ê½: Çå¿ÕÖ®Ç°µÄ×´Ì¬
+2026-03-01 08:58:17,457 - MalteseDesktopPet - INFO - Ä£Ê½ÇĞ»»: ÇĞ»»µ½°²¾²Ä£Ê½
+2026-03-01 08:58:17,467 - MalteseDesktopPet - INFO - °²¾²Ä£Ê½: ±£´æµ±Ç°×´Ì¬ - Ä£Ê½: ¸úËæÄ£Ê½, ÎŞÁÄ×´Ì¬: False, ¹¤×÷Ê±¼ä: False
+2026-03-01 08:58:17,468 - MalteseDesktopPet - INFO - °²¾²Ä£Ê½: Í£Ö¹¸úËæ¶¨Ê±Æ÷
+2026-03-01 08:58:17,468 - MalteseDesktopPet - INFO - °²¾²Ä£Ê½: Í£Ö¹³èÎïµÄËæ»ú»î¶¯
+2026-03-01 08:58:17,468 - MalteseDesktopPet - INFO - °²¾²Ä£Ê½: Í£Ö¹ËùÓĞ¶¨Ê±Æ÷
+2026-03-01 08:58:17,468 - MalteseDesktopPet - INFO - °²¾²Ä£Ê½: ÉèÖÃÎªÕı³£×´Ì¬µÄ¶¯»­
+2026-03-01 08:58:26,828 - MalteseDesktopPet - INFO - Ä£Ê½ÇĞ»»: ÇĞ»»µ½¸úËæÄ£Ê½
+2026-03-01 08:58:26,828 - MalteseDesktopPet - INFO - ¸úËæÄ£Ê½: Í£Ö¹³èÎïµÄËæ»ú»î¶¯
+2026-03-01 08:58:26,830 - MalteseDesktopPet - INFO - ¸úËæÄ£Ê½: Æô¶¯¸úËæ¶¨Ê±Æ÷£¬Ö¡ÂÊÔ¼60FPS
+2026-03-01 08:58:26,830 - MalteseDesktopPet - INFO - ¸úËæÄ£Ê½: Çå¿ÕÖ®Ç°µÄ×´Ì¬
+2026-03-01 09:00:24,854 - MalteseDesktopPet - INFO - Ä£Ê½ÇĞ»»: ÇĞ»»µ½°²¾²Ä£Ê½
+2026-03-01 09:00:24,854 - MalteseDesktopPet - INFO - °²¾²Ä£Ê½: ±£´æµ±Ç°×´Ì¬ - Ä£Ê½: ×ÔÓÉÄ£Ê½, ÎŞÁÄ×´Ì¬: False, ¹¤×÷Ê±¼ä: False
+2026-03-01 09:00:24,854 - MalteseDesktopPet - INFO - °²¾²Ä£Ê½: Í£Ö¹³èÎïµÄËæ»ú»î¶¯
+2026-03-01 09:00:24,856 - MalteseDesktopPet - INFO - °²¾²Ä£Ê½: Í£Ö¹ËùÓĞ¶¨Ê±Æ÷
+2026-03-01 09:00:24,861 - MalteseDesktopPet - INFO - °²¾²Ä£Ê½: ÉèÖÃÎªÕı³£×´Ì¬µÄ¶¯»­
+2026-03-01 09:00:35,153 - MalteseDesktopPet - INFO - Ä£Ê½ÇĞ»»: ÇĞ»»µ½¸úËæÄ£Ê½
+2026-03-01 09:00:35,154 - MalteseDesktopPet - INFO - ¸úËæÄ£Ê½: Í£Ö¹³èÎïµÄËæ»ú»î¶¯
+2026-03-01 09:00:35,155 - MalteseDesktopPet - INFO - ¸úËæÄ£Ê½: Æô¶¯¸úËæ¶¨Ê±Æ÷£¬Ö¡ÂÊÔ¼60FPS
+2026-03-01 09:00:35,155 - MalteseDesktopPet - INFO - ¸úËæÄ£Ê½: Çå¿ÕÖ®Ç°µÄ×´Ì¬
+2026-03-01 09:07:30,958 - MalteseDesktopPet - INFO - Ä£Ê½ÇĞ»»: ÇĞ»»µ½¸úËæÄ£Ê½
+2026-03-01 09:07:30,958 - MalteseDesktopPet - INFO - ¸úËæÄ£Ê½: Í£Ö¹³èÎïµÄËæ»ú»î¶¯
+2026-03-01 09:07:30,959 - MalteseDesktopPet - INFO - ¸úËæÄ£Ê½: Æô¶¯¸úËæ¶¨Ê±Æ÷£¬Ö¡ÂÊÔ¼60FPS
+2026-03-01 09:07:30,959 - MalteseDesktopPet - INFO - ¸úËæÄ£Ê½: Çå¿ÕÖ®Ç°µÄ×´Ì¬
+2026-03-01 09:07:36,905 - MalteseDesktopPet - INFO - Ä£Ê½ÇĞ»»: ÇĞ»»µ½°²¾²Ä£Ê½
+2026-03-01 09:07:36,905 - MalteseDesktopPet - INFO - °²¾²Ä£Ê½: ±£´æµ±Ç°×´Ì¬ - Ä£Ê½: ¸úËæÄ£Ê½, ÎŞÁÄ×´Ì¬: False, ¹¤×÷Ê±¼ä: False
+2026-03-01 09:07:36,906 - MalteseDesktopPet - INFO - °²¾²Ä£Ê½: Í£Ö¹¸úËæ¶¨Ê±Æ÷
+2026-03-01 09:07:36,906 - MalteseDesktopPet - INFO - °²¾²Ä£Ê½: Í£Ö¹³èÎïµÄËæ»ú»î¶¯
+2026-03-01 09:07:36,906 - MalteseDesktopPet - INFO - °²¾²Ä£Ê½: Í£Ö¹ËùÓĞ¶¨Ê±Æ÷
+2026-03-01 09:07:36,910 - MalteseDesktopPet - INFO - °²¾²Ä£Ê½: ÉèÖÃÎªÕı³£×´Ì¬µÄ¶¯»­
+2026-03-01 09:08:41,221 - MalteseDesktopPet - INFO - Ä£Ê½ÇĞ»»: ÇĞ»»µ½¸úËæÄ£Ê½
+2026-03-01 09:08:41,221 - MalteseDesktopPet - INFO - ¸úËæÄ£Ê½: Í£Ö¹³èÎïµÄËæ»ú»î¶¯
+2026-03-01 09:08:41,222 - MalteseDesktopPet - INFO - ¸úËæÄ£Ê½: Æô¶¯¸úËæ¶¨Ê±Æ÷£¬Ö¡ÂÊÔ¼60FPS
+2026-03-01 09:08:41,222 - MalteseDesktopPet - INFO - ¸úËæÄ£Ê½: Çå¿ÕÖ®Ç°µÄ×´Ì¬
+2026-03-01 09:12:19,491 - MalteseDesktopPet - INFO - Ä£Ê½ÇĞ»»: ÇĞ»»µ½¸úËæÄ£Ê½
+2026-03-01 09:12:19,491 - MalteseDesktopPet - INFO - ¸úËæÄ£Ê½: Í£Ö¹³èÎïµÄËæ»ú»î¶¯
+2026-03-01 09:12:19,492 - MalteseDesktopPet - INFO - ¸úËæÄ£Ê½: Æô¶¯¸úËæ¶¨Ê±Æ÷£¬Ö¡ÂÊÔ¼60FPS
+2026-03-01 09:12:19,492 - MalteseDesktopPet - INFO - ¸úËæÄ£Ê½: Çå¿ÕÖ®Ç°µÄ×´Ì¬
+2026-03-01 09:12:35,913 - MalteseDesktopPet - INFO - Ä£Ê½ÇĞ»»: ÇĞ»»µ½¸úËæÄ£Ê½
+2026-03-01 09:12:35,913 - MalteseDesktopPet - INFO - ¸úËæÄ£Ê½: Í£Ö¹³èÎïµÄËæ»ú»î¶¯
+2026-03-01 09:12:35,914 - MalteseDesktopPet - INFO - ¸úËæÄ£Ê½: Æô¶¯¸úËæ¶¨Ê±Æ÷£¬Ö¡ÂÊÔ¼60FPS
+2026-03-01 09:12:35,914 - MalteseDesktopPet - INFO - ¸úËæÄ£Ê½: Çå¿ÕÖ®Ç°µÄ×´Ì¬
+2026-03-01 09:16:11,766 - MalteseDesktopPet - INFO - Ä£Ê½ÇĞ»»: ÇĞ»»µ½¸úËæÄ£Ê½
+2026-03-01 09:16:11,766 - MalteseDesktopPet - INFO - ¸úËæÄ£Ê½: Í£Ö¹³èÎïµÄËæ»ú»î¶¯
+2026-03-01 09:16:11,767 - MalteseDesktopPet - INFO - ¸úËæÄ£Ê½: Æô¶¯¸úËæ¶¨Ê±Æ÷£¬Ö¡ÂÊÔ¼60FPS
+2026-03-01 09:16:11,767 - MalteseDesktopPet - INFO - ¸úËæÄ£Ê½: Çå¿ÕÖ®Ç°µÄ×´Ì¬
+2026-03-01 09:16:15,174 - MalteseDesktopPet - INFO - Ä£Ê½ÇĞ»»: ÇĞ»»µ½×ÔÓÉÄ£Ê½
+2026-03-01 09:16:15,175 - MalteseDesktopPet - INFO - ×ÔÓÉÄ£Ê½: Í£Ö¹¸úËæ¶¨Ê±Æ÷
+2026-03-01 09:16:15,175 - MalteseDesktopPet - INFO - ×ÔÓÉÄ£Ê½: »Ö¸´³èÎïµÄËæ»ú»î¶¯
+2026-03-01 09:16:15,175 - MalteseDesktopPet - INFO - ×ÔÓÉÄ£Ê½: Æô¶¯×ÔÓÉÒÆ¶¯¶¨Ê±Æ÷£¬Ö¡ÂÊÔ¼60FPS
+2026-03-01 09:16:15,175 - MalteseDesktopPet - INFO - ×ÔÓÉÄ£Ê½: »ñÈ¡ÆÁÄ»¼¸ºÎĞÅÏ¢ - ¿í: 2880, ¸ß: 1920
+2026-03-01 09:16:22,825 - MalteseDesktopPet - INFO - Ä£Ê½ÇĞ»»: ÇĞ»»µ½°²¾²Ä£Ê½
+2026-03-01 09:16:22,825 - MalteseDesktopPet - INFO - °²¾²Ä£Ê½: ±£´æµ±Ç°×´Ì¬ - Ä£Ê½: ×ÔÓÉÄ£Ê½, ÎŞÁÄ×´Ì¬: False, ¹¤×÷Ê±¼ä: False
+2026-03-01 09:16:22,826 - MalteseDesktopPet - INFO - °²¾²Ä£Ê½: Í£Ö¹×ÔÓÉÒÆ¶¯¶¨Ê±Æ÷
+2026-03-01 09:16:22,826 - MalteseDesktopPet - INFO - °²¾²Ä£Ê½: Í£Ö¹³èÎïµÄËæ»ú»î¶¯
+2026-03-01 09:16:22,826 - MalteseDesktopPet - INFO - °²¾²Ä£Ê½: Í£Ö¹ËùÓĞ¶¨Ê±Æ÷
+2026-03-01 09:16:22,826 - MalteseDesktopPet - INFO - °²¾²Ä£Ê½: ÉèÖÃÎªÕı³£×´Ì¬µÄ¶¯»­
+2026-03-01 09:19:51,598 - MalteseDesktopPet - INFO - Ä£Ê½ÇĞ»»: ÇĞ»»µ½¸úËæÄ£Ê½
+2026-03-01 09:19:51,599 - MalteseDesktopPet - INFO - ¸úËæÄ£Ê½: Í£Ö¹³èÎïµÄËæ»ú»î¶¯
+2026-03-01 09:19:51,599 - MalteseDesktopPet - INFO - ¸úËæÄ£Ê½: Æô¶¯¸úËæ¶¨Ê±Æ÷£¬Ö¡ÂÊÔ¼60FPS
+2026-03-01 09:19:51,599 - MalteseDesktopPet - INFO - ¸úËæÄ£Ê½: Çå¿ÕÖ®Ç°µÄ×´Ì¬
+2026-03-01 09:19:56,112 - MalteseDesktopPet - INFO - Ä£Ê½ÇĞ»»: ÇĞ»»µ½×ÔÓÉÄ£Ê½
+2026-03-01 09:19:56,113 - MalteseDesktopPet - INFO - ×ÔÓÉÄ£Ê½: Í£Ö¹¸úËæ¶¨Ê±Æ÷
+2026-03-01 09:19:56,113 - MalteseDesktopPet - INFO - ×ÔÓÉÄ£Ê½: »Ö¸´³èÎïµÄËæ»ú»î¶¯
+2026-03-01 09:19:56,113 - MalteseDesktopPet - INFO - ×ÔÓÉÄ£Ê½: Æô¶¯×ÔÓÉÒÆ¶¯¶¨Ê±Æ÷£¬Ö¡ÂÊÔ¼60FPS
+2026-03-01 09:19:56,113 - MalteseDesktopPet - INFO - ×ÔÓÉÄ£Ê½: »ñÈ¡ÆÁÄ»¼¸ºÎĞÅÏ¢ - ¿í: 2880, ¸ß: 1920
+2026-03-01 09:19:58,458 - MalteseDesktopPet - INFO - Ä£Ê½ÇĞ»»: ÇĞ»»µ½°²¾²Ä£Ê½
+2026-03-01 09:19:58,459 - MalteseDesktopPet - INFO - °²¾²Ä£Ê½: ±£´æµ±Ç°×´Ì¬ - Ä£Ê½: ×ÔÓÉÄ£Ê½, ÎŞÁÄ×´Ì¬: False, ¹¤×÷Ê±¼ä: False
+2026-03-01 09:19:58,459 - MalteseDesktopPet - INFO - °²¾²Ä£Ê½: Í£Ö¹×ÔÓÉÒÆ¶¯¶¨Ê±Æ÷
+2026-03-01 09:19:58,459 - MalteseDesktopPet - INFO - °²¾²Ä£Ê½: Í£Ö¹³èÎïµÄËæ»ú»î¶¯
+2026-03-01 09:19:58,459 - MalteseDesktopPet - INFO - °²¾²Ä£Ê½: Í£Ö¹ËùÓĞ¶¨Ê±Æ÷
+2026-03-01 09:19:58,459 - MalteseDesktopPet - INFO - °²¾²Ä£Ê½: ÉèÖÃÎªÕı³£×´Ì¬µÄ¶¯»­
+2026-03-01 09:57:31,164 - MalteseDesktopPet - INFO - Ä£Ê½ÇĞ»»: ÇĞ»»µ½¸úËæÄ£Ê½
+2026-03-01 09:57:31,165 - MalteseDesktopPet - INFO - ¸úËæÄ£Ê½: Í£Ö¹³èÎïµÄËæ»ú»î¶¯
+2026-03-01 09:57:31,166 - MalteseDesktopPet - INFO - ¸úËæÄ£Ê½: Æô¶¯¸úËæ¶¨Ê±Æ÷£¬Ö¡ÂÊÔ¼60FPS
+2026-03-01 09:57:31,166 - MalteseDesktopPet - INFO - ¸úËæÄ£Ê½: Çå¿ÕÖ®Ç°µÄ×´Ì¬
+2026-03-02 18:16:09,706 - MalteseDesktopPet - INFO - Ä£Ê½ÇĞ»»: ÇĞ»»µ½°²¾²Ä£Ê½
+2026-03-02 18:16:09,735 - MalteseDesktopPet - INFO - °²¾²Ä£Ê½: ±£´æµ±Ç°×´Ì¬ - Ä£Ê½: ×ÔÓÉÄ£Ê½, ÎŞÁÄ×´Ì¬: False, ¹¤×÷Ê±¼ä: False
+2026-03-02 18:16:09,735 - MalteseDesktopPet - INFO - °²¾²Ä£Ê½: Í£Ö¹³èÎïµÄËæ»ú»î¶¯
+2026-03-02 18:16:09,735 - MalteseDesktopPet - INFO - °²¾²Ä£Ê½: Í£Ö¹ËùÓĞ¶¨Ê±Æ÷
+2026-03-02 18:16:09,746 - MalteseDesktopPet - INFO - °²¾²Ä£Ê½: ÉèÖÃÎªÕı³£×´Ì¬µÄ¶¯»­
+2026-03-02 18:16:14,098 - MalteseDesktopPet - INFO - Ä£Ê½ÇĞ»»: ÇĞ»»µ½×ÔÓÉÄ£Ê½
+2026-03-02 18:16:14,098 - MalteseDesktopPet - INFO - ×ÔÓÉÄ£Ê½: »Ö¸´³èÎïµÄËæ»ú»î¶¯
+2026-03-02 18:16:14,103 - MalteseDesktopPet - INFO - ×ÔÓÉÄ£Ê½: Æô¶¯×ÔÓÉÒÆ¶¯¶¨Ê±Æ÷£¬Ö¡ÂÊÔ¼60FPS
+2026-03-02 18:16:14,103 - MalteseDesktopPet - INFO - ×ÔÓÉÄ£Ê½: »ñÈ¡ÆÁÄ»¼¸ºÎĞÅÏ¢ - ¿í: 2880, ¸ß: 1920
+2026-03-02 18:16:14,103 - MalteseDesktopPet - INFO - ×ÔÓÉÄ£Ê½: Çå¿ÕÖ®Ç°µÄ×´Ì¬
+2026-03-02 18:16:23,644 - MalteseDesktopPet - INFO - Ä£Ê½ÇĞ»»: ÇĞ»»µ½°²¾²Ä£Ê½
+2026-03-02 18:16:23,644 - MalteseDesktopPet - INFO - °²¾²Ä£Ê½: ±£´æµ±Ç°×´Ì¬ - Ä£Ê½: ×ÔÓÉÄ£Ê½, ÎŞÁÄ×´Ì¬: False, ¹¤×÷Ê±¼ä: False
+2026-03-02 18:16:23,645 - MalteseDesktopPet - INFO - °²¾²Ä£Ê½: Í£Ö¹×ÔÓÉÒÆ¶¯¶¨Ê±Æ÷
+2026-03-02 18:16:23,645 - MalteseDesktopPet - INFO - °²¾²Ä£Ê½: Í£Ö¹³èÎïµÄËæ»ú»î¶¯
+2026-03-02 18:16:23,645 - MalteseDesktopPet - INFO - °²¾²Ä£Ê½: Í£Ö¹ËùÓĞ¶¨Ê±Æ÷
+2026-03-02 18:16:23,645 - MalteseDesktopPet - INFO - °²¾²Ä£Ê½: ÉèÖÃÎªÕı³£×´Ì¬µÄ¶¯»­
+2026-03-02 18:16:27,660 - MalteseDesktopPet - INFO - Ä£Ê½ÇĞ»»: ÇĞ»»µ½¸úËæÄ£Ê½
+2026-03-02 18:16:27,660 - MalteseDesktopPet - INFO - ¸úËæÄ£Ê½: Í£Ö¹³èÎïµÄËæ»ú»î¶¯
+2026-03-02 18:16:27,662 - MalteseDesktopPet - INFO - ¸úËæÄ£Ê½: Æô¶¯¸úËæ¶¨Ê±Æ÷£¬Ö¡ÂÊÔ¼60FPS
+2026-03-02 18:16:27,662 - MalteseDesktopPet - INFO - ¸úËæÄ£Ê½: Çå¿ÕÖ®Ç°µÄ×´Ì¬
+2026-05-17 17:45:59,671 - MalteseDesktopPet - INFO - Ä£Ê½ÇĞ»»: ÇĞ»»µ½¸úËæÄ£Ê½
+2026-05-17 17:45:59,671 - MalteseDesktopPet - INFO - ¸úËæÄ£Ê½: Í£Ö¹³èÎïµÄËæ»ú»î¶¯
+2026-05-17 17:45:59,673 - MalteseDesktopPet - INFO - ¸úËæÄ£Ê½: Æô¶¯¸úËæ¶¨Ê±Æ÷£¬Ö¡ÂÊÔ¼60FPS
+2026-05-17 17:45:59,673 - MalteseDesktopPet - INFO - ¸úËæÄ£Ê½: Çå¿ÕÖ®Ç°µÄ×´Ì¬
+2026-05-17 17:46:16,753 - MalteseDesktopPet - INFO - Ä£Ê½ÇĞ»»: ÇĞ»»µ½°²¾²Ä£Ê½
+2026-05-17 17:46:16,753 - MalteseDesktopPet - INFO - °²¾²Ä£Ê½: ±£´æµ±Ç°×´Ì¬ - Ä£Ê½: ¸úËæÄ£Ê½, ÎŞÁÄ×´Ì¬: False, ¹¤×÷Ê±¼ä: False
+2026-05-17 17:46:16,753 - MalteseDesktopPet - INFO - °²¾²Ä£Ê½: Í£Ö¹¸úËæ¶¨Ê±Æ÷
+2026-05-17 17:46:16,753 - MalteseDesktopPet - INFO - °²¾²Ä£Ê½: Í£Ö¹³èÎïµÄËæ»ú»î¶¯
+2026-05-17 17:46:16,753 - MalteseDesktopPet - INFO - °²¾²Ä£Ê½: Í£Ö¹ËùÓĞ¶¨Ê±Æ÷
+2026-05-17 17:46:16,753 - MalteseDesktopPet - INFO - °²¾²Ä£Ê½: ÉèÖÃÎªÕı³£×´Ì¬µÄ¶¯»­
+2026-05-17 17:46:20,144 - MalteseDesktopPet - INFO - Ä£Ê½ÇĞ»»: ÇĞ»»µ½×ÔÓÉÄ£Ê½
+2026-05-17 17:46:20,144 - MalteseDesktopPet - INFO - ×ÔÓÉÄ£Ê½: »Ö¸´³èÎïµÄËæ»ú»î¶¯
+2026-05-17 17:46:20,144 - MalteseDesktopPet - INFO - ×ÔÓÉÄ£Ê½: Æô¶¯×ÔÓÉÒÆ¶¯¶¨Ê±Æ÷£¬Ö¡ÂÊÔ¼60FPS
+2026-05-17 17:46:20,144 - MalteseDesktopPet - INFO - ×ÔÓÉÄ£Ê½: »ñÈ¡ÆÁÄ»¼¸ºÎĞÅÏ¢ - ¿í: 2880, ¸ß: 1920
+2026-05-17 17:46:20,144 - MalteseDesktopPet - INFO - ×ÔÓÉÄ£Ê½: Çå¿ÕÖ®Ç°µÄ×´Ì¬
+[24516:22640:0517/191730.659:WARNING:t_skinfilemap.cpp(56)] SGRenderLog:CheckUpdate newMem.OpenMem failed, szNewMem:Local\sgime_skin.v3.filemap.sogouime err:ç³»ç»Ÿé”™è¯¯2: ç³»ç»Ÿæ‰¾ä¸åˆ°æŒ‡å®šçš„æ–‡ä»¶ã€‚  
+æ‰“å¼€Filemapå¤±è´¥: Local\sgime_skin.v3.filemap.sogouime2558e362e17
+[24516:22640:0517/191730.659:WARNING:t_skinfilemap.cpp(65)] SGRenderLog:CheckUpdate finish: old version:1
+[24516:22640:0517/191730.659:WARNING:t_skinfilemap.cpp(67)] SGRenderLog:CheckUpdate finish: new version:3
+[24516:22640:0517/191730.861:WARNING:t_skinfilemap.cpp(63)] SGRenderLog:CheckUpdate newMem.OpenMem Suc, szNewMem:Local\sgime_skin.Dpi192.v3.filemap.sogouime
+[24516:22640:0517/191730.861:WARNING:t_skinfilemap.cpp(65)] SGRenderLog:CheckUpdate finish: old version:3
+[24516:22640:0517/191730.861:WARNING:t_skinfilemap.cpp(67)] SGRenderLog:CheckUpdate finish: new version:3
+[9600:14712:0517/193155.713:WARNING:t_skinfilemap.cpp(56)] SGRenderLog:CheckUpdate newMem.OpenMem failed, szNewMem:Local\sgime_skin.v3.filemap.sogouime err:ç³»ç»Ÿé”™è¯¯2: ç³»ç»Ÿæ‰¾ä¸åˆ°æŒ‡å®šçš„æ–‡ä»¶ã€‚  
+æ‰“å¼€Filemapå¤±è´¥: Local\sgime_skin.v3.filemap.sogouime2558e362e17
+[9600:14712:0517/193155.713:WARNING:t_skinfilemap.cpp(65)] SGRenderLog:CheckUpdate finish: old version:1
+[9600:14712:0517/193155.713:WARNING:t_skinfilemap.cpp(67)] SGRenderLog:CheckUpdate finish: new version:3
+[9600:14712:0517/193155.953:WARNING:t_skinfilemap.cpp(63)] SGRenderLog:CheckUpdate newMem.OpenMem Suc, szNewMem:Local\sgime_skin.Dpi192.v3.filemap.sogouime
+[9600:14712:0517/193155.953:WARNING:t_skinfilemap.cpp(65)] SGRenderLog:CheckUpdate finish: old version:3
+[9600:14712:0517/193155.953:WARNING:t_skinfilemap.cpp(67)] SGRenderLog:CheckUpdate finish: new version:3
+[23592:22112:0523/132247.901:WARNING:t_skinfilemap.cpp(56)] SGRenderLog:CheckUpdate newMem.OpenMem failed, szNewMem:Local\sgime_skin.v5.filemap.sogouime err:ç³»ç»Ÿé”™è¯¯2: ç³»ç»Ÿæ‰¾ä¸åˆ°æŒ‡å®šçš„æ–‡ä»¶ã€‚  
+æ‰“å¼€Filemapå¤±è´¥: Local\sgime_skin.v5.filemap.sogouime2558e362e17
+[23592:22112:0523/132247.901:WARNING:t_skinfilemap.cpp(65)] SGRenderLog:CheckUpdate finish: old version:1
+[23592:22112:0523/132247.901:WARNING:t_skinfilemap.cpp(67)] SGRenderLog:CheckUpdate finish: new version:5
+[23592:22112:0523/132248.107:WARNING:t_skinfilemap.cpp(63)] SGRenderLog:CheckUpdate newMem.OpenMem Suc, szNewMem:Local\sgime_skin.Dpi192.v5.filemap.sogouime
+[23592:22112:0523/132248.107:WARNING:t_skinfilemap.cpp(65)] SGRenderLog:CheckUpdate finish: old version:5
+[23592:22112:0523/132248.107:WARNING:t_skinfilemap.cpp(67)] SGRenderLog:CheckUpdate finish: new version:5
+2026-05-24 20:19:33,715 - MalteseDesktopPet - ERROR - WSADÒÆ¶¯´íÎó: arguments did not match any overloaded call:
+  screenGeometry(self, screen: int = -1): first argument of unbound method must have type 'QDesktopWidget'
+  screenGeometry(self, widget: QWidget): first argument of unbound method must have type 'QDesktopWidget'
+  screenGeometry(self, point: QPoint): first argument of unbound method must have type 'QDesktopWidget'
+2026-05-24 20:19:33,728 - MalteseDesktopPet - ERROR - WSADÒÆ¶¯´íÎó: arguments did not match any overloaded call:
+  screenGeometry(self, screen: int = -1): first argument of unbound method must have type 'QDesktopWidget'
+  screenGeometry(self, widget: QWidget): first argument of unbound method must have type 'QDesktopWidget'
+  screenGeometry(self, point: QPoint): first argument of unbound method must have type 'QDesktopWidget'
+2026-05-24 20:19:33,744 - MalteseDesktopPet - ERROR - WSADÒÆ¶¯´íÎó: arguments did not match any overloaded call:
+  screenGeometry(self, screen: int = -1): first argument of unbound method must have type 'QDesktopWidget'
+  screenGeometry(self, widget: QWidget): first argument of unbound method must have type 'QDesktopWidget'
+  screenGeometry(self, point: QPoint): first argument of unbound method must have type 'QDesktopWidget'
+2026-05-24 20:19:33,775 - MalteseDesktopPet - ERROR - WSADÒÆ¶¯´íÎó: arguments did not match any overloaded call:
+  screenGeometry(self, screen: int = -1): first argument of unbound method must have type 'QDesktopWidget'
+  screenGeometry(self, widget: QWidget): first argument of unbound method must have type 'QDesktopWidget'
+  screenGeometry(self, point: QPoint): first argument of unbound method must have type 'QDesktopWidget'
+2026-05-24 20:19:33,779 - MalteseDesktopPet - ERROR - WSADÒÆ¶¯´íÎó: arguments did not match any overloaded call:
+  screenGeometry(self, screen: int = -1): first argument of unbound method must have type 'QDesktopWidget'
+  screenGeometry(self, widget: QWidget): first argument of unbound method must have type 'QDesktopWidget'
+  screenGeometry(self, point: QPoint): first argument of unbound method must have type 'QDesktopWidget'
+2026-05-24 20:19:33,792 - MalteseDesktopPet - ERROR - WSADÒÆ¶¯´íÎó: arguments did not match any overloaded call:
+  screenGeometry(self, screen: int = -1): first argument of unbound method must have type 'QDesktopWidget'
+  screenGeometry(self, widget: QWidget): first argument of unbound method must have type 'QDesktopWidget'
+  screenGeometry(self, point: QPoint): first argument of unbound method must have type 'QDesktopWidget'
+2026-05-24 20:19:33,808 - MalteseDesktopPet - ERROR - WSADÒÆ¶¯´íÎó: arguments did not match any overloaded call:
+  screenGeometry(self, screen: int = -1): first argument of unbound method must have type 'QDesktopWidget'
+  screenGeometry(self, widget: QWidget): first argument of unbound method must have type 'QDesktopWidget'
+  screenGeometry(self, point: QPoint): first argument of unbound method must have type 'QDesktopWidget'
+2026-05-24 20:19:33,824 - MalteseDesktopPet - ERROR - WSADÒÆ¶¯´íÎó: arguments did not match any overloaded call:
+  screenGeometry(self, screen: int = -1): first argument of unbound method must have type 'QDesktopWidget'
+  screenGeometry(self, widget: QWidget): first argument of unbound method must have type 'QDesktopWidget'
+  screenGeometry(self, point: QPoint): first argument of unbound method must have type 'QDesktopWidget'
+2026-05-24 20:19:33,840 - MalteseDesktopPet - ERROR - WSADÒÆ¶¯´íÎó: arguments did not match any overloaded call:
+  screenGeometry(self, screen: int = -1): first argument of unbound method must have type 'QDesktopWidget'
+  screenGeometry(self, widget: QWidget): first argument of unbound method must have type 'QDesktopWidget'
+  screenGeometry(self, point: QPoint): first argument of unbound method must have type 'QDesktopWidget'
+2026-05-24 20:19:33,857 - MalteseDesktopPet - ERROR - WSADÒÆ¶¯´íÎó: arguments did not match any overloaded call:
+  screenGeometry(self, screen: int = -1): first argument of unbound method must have type 'QDesktopWidget'
+  screenGeometry(self, widget: QWidget): first argument of unbound method must have type 'QDesktopWidget'
+  screenGeometry(self, point: QPoint): first argument of unbound method must have type 'QDesktopWidget'
+2026-05-24 20:19:33,872 - MalteseDesktopPet - ERROR - WSADÒÆ¶¯´íÎó: arguments did not match any overloaded call:
+  screenGeometry(self, screen: int = -1): first argument of unbound method must have type 'QDesktopWidget'
+  screenGeometry(self, widget: QWidget): first argument of unbound method must have type 'QDesktopWidget'
+  screenGeometry(self, point: QPoint): first argument of unbound method must have type 'QDesktopWidget'
+2026-05-24 20:19:35,776 - MalteseDesktopPet - ERROR - WSADÒÆ¶¯´íÎó: arguments did not match any overloaded call:
+  screenGeometry(self, screen: int = -1): first argument of unbound method must have type 'QDesktopWidget'
+  screenGeometry(self, widget: QWidget): first argument of unbound method must have type 'QDesktopWidget'
+  screenGeometry(self, point: QPoint): first argument of unbound method must have type 'QDesktopWidget'
+2026-05-24 20:19:35,791 - MalteseDesktopPet - ERROR - WSADÒÆ¶¯´íÎó: arguments did not match any overloaded call:
+  screenGeometry(self, screen: int = -1): first argument of unbound method must have type 'QDesktopWidget'
+  screenGeometry(self, widget: QWidget): first argument of unbound method must have type 'QDesktopWidget'
+  screenGeometry(self, point: QPoint): first argument of unbound method must have type 'QDesktopWidget'
+2026-05-24 20:19:35,809 - MalteseDesktopPet - ERROR - WSADÒÆ¶¯´íÎó: arguments did not match any overloaded call:
+  screenGeometry(self, screen: int = -1): first argument of unbound method must have type 'QDesktopWidget'
+  screenGeometry(self, widget: QWidget): first argument of unbound method must have type 'QDesktopWidget'
+  screenGeometry(self, point: QPoint): first argument of unbound method must have type 'QDesktopWidget'
+2026-05-24 20:19:35,825 - MalteseDesktopPet - ERROR - WSADÒÆ¶¯´íÎó: arguments did not match any overloaded call:
+  screenGeometry(self, screen: int = -1): first argument of unbound method must have type 'QDesktopWidget'
+  screenGeometry(self, widget: QWidget): first argument of unbound method must have type 'QDesktopWidget'
+  screenGeometry(self, point: QPoint): first argument of unbound method must have type 'QDesktopWidget'
+2026-05-24 20:19:35,843 - MalteseDesktopPet - ERROR - WSADÒÆ¶¯´íÎó: arguments did not match any overloaded call:
+  screenGeometry(self, screen: int = -1): first argument of unbound method must have type 'QDesktopWidget'
+  screenGeometry(self, widget: QWidget): first argument of unbound method must have type 'QDesktopWidget'
+  screenGeometry(self, point: QPoint): first argument of unbound method must have type 'QDesktopWidget'
+2026-05-24 20:19:35,856 - MalteseDesktopPet - ERROR - WSADÒÆ¶¯´íÎó: arguments did not match any overloaded call:
+  screenGeometry(self, screen: int = -1): first argument of unbound method must have type 'QDesktopWidget'
+  screenGeometry(self, widget: QWidget): first argument of unbound method must have type 'QDesktopWidget'
+  screenGeometry(self, point: QPoint): first argument of unbound method must have type 'QDesktopWidget'
+2026-05-24 20:19:35,873 - MalteseDesktopPet - ERROR - WSADÒÆ¶¯´íÎó: arguments did not match any overloaded call:
+  screenGeometry(self, screen: int = -1): first argument of unbound method must have type 'QDesktopWidget'
+  screenGeometry(self, widget: QWidget): first argument of unbound method must have type 'QDesktopWidget'
+  screenGeometry(self, point: QPoint): first argument of unbound method must have type 'QDesktopWidget'
+2026-05-24 20:19:35,888 - MalteseDesktopPet - ERROR - WSADÒÆ¶¯´íÎó: arguments did not match any overloaded call:
+  screenGeometry(self, screen: int = -1): first argument of unbound method must have type 'QDesktopWidget'
+  screenGeometry(self, widget: QWidget): first argument of unbound method must have type 'QDesktopWidget'
+  screenGeometry(self, point: QPoint): first argument of unbound method must have type 'QDesktopWidget'
+2026-05-24 20:19:35,906 - MalteseDesktopPet - ERROR - WSADÒÆ¶¯´íÎó: arguments did not match any overloaded call:
+  screenGeometry(self, screen: int = -1): first argument of unbound method must have type 'QDesktopWidget'
+  screenGeometry(self, widget: QWidget): first argument of unbound method must have type 'QDesktopWidget'
+  screenGeometry(self, point: QPoint): first argument of unbound method must have type 'QDesktopWidget'
+2026-05-24 20:19:35,922 - MalteseDesktopPet - ERROR - WSADÒÆ¶¯´íÎó: arguments did not match any overloaded call:
+  screenGeometry(self, screen: int = -1): first argument of unbound method must have type 'QDesktopWidget'
+  screenGeometry(self, widget: QWidget): first argument of unbound method must have type 'QDesktopWidget'
+  screenGeometry(self, point: QPoint): first argument of unbound method must have type 'QDesktopWidget'
+2026-05-24 20:19:35,936 - MalteseDesktopPet - ERROR - WSADÒÆ¶¯´íÎó: arguments did not match any overloaded call:
+  screenGeometry(self, screen: int = -1): first argument of unbound method must have type 'QDesktopWidget'
+  screenGeometry(self, widget: QWidget): first argument of unbound method must have type 'QDesktopWidget'
+  screenGeometry(self, point: QPoint): first argument of unbound method must have type 'QDesktopWidget'
+2026-05-24 20:19:35,953 - MalteseDesktopPet - ERROR - WSADÒÆ¶¯´íÎó: arguments did not match any overloaded call:
+  screenGeometry(self, screen: int = -1): first argument of unbound method must have type 'QDesktopWidget'
+  screenGeometry(self, widget: QWidget): first argument of unbound method must have type 'QDesktopWidget'
+  screenGeometry(self, point: QPoint): first argument of unbound method must have type 'QDesktopWidget'
+2026-05-24 20:19:35,969 - MalteseDesktopPet - ERROR - WSADÒÆ¶¯´íÎó: arguments did not match any overloaded call:
+  screenGeometry(self, screen: int = -1): first argument of unbound method must have type 'QDesktopWidget'
+  screenGeometry(self, widget: QWidget): first argument of unbound method must have type 'QDesktopWidget'
+  screenGeometry(self, point: QPoint): first argument of unbound method must have type 'QDesktopWidget'
+2026-05-24 20:19:35,986 - MalteseDesktopPet - ERROR - WSADÒÆ¶¯´íÎó: arguments did not match any overloaded call:
+  screenGeometry(self, screen: int = -1): first argument of unbound method must have type 'QDesktopWidget'
+  screenGeometry(self, widget: QWidget): first argument of unbound method must have type 'QDesktopWidget'
+  screenGeometry(self, point: QPoint): first argument of unbound method must have type 'QDesktopWidget'
+2026-05-24 20:19:36,000 - MalteseDesktopPet - ERROR - WSADÒÆ¶¯´íÎó: arguments did not match any overloaded call:
+  screenGeometry(self, screen: int = -1): first argument of unbound method must have type 'QDesktopWidget'
+  screenGeometry(self, widget: QWidget): first argument of unbound method must have type 'QDesktopWidget'
+  screenGeometry(self, point: QPoint): first argument of unbound method must have type 'QDesktopWidget'
+2026-05-24 20:19:36,019 - MalteseDesktopPet - ERROR - WSADÒÆ¶¯´íÎó: arguments did not match any overloaded call:
+  screenGeometry(self, screen: int = -1): first argument of unbound method must have type 'QDesktopWidget'
+  screenGeometry(self, widget: QWidget): first argument of unbound method must have type 'QDesktopWidget'
+  screenGeometry(self, point: QPoint): first argument of unbound method must have type 'QDesktopWidget'
+2026-05-24 20:19:36,033 - MalteseDesktopPet - ERROR - WSADÒÆ¶¯´íÎó: arguments did not match any overloaded call:
+  screenGeometry(self, screen: int = -1): first argument of unbound method must have type 'QDesktopWidget'
+  screenGeometry(self, widget: QWidget): first argument of unbound method must have type 'QDesktopWidget'
+  screenGeometry(self, point: QPoint): first argument of unbound method must have type 'QDesktopWidget'
+2026-05-24 20:19:36,048 - MalteseDesktopPet - ERROR - WSADÒÆ¶¯´íÎó: arguments did not match any overloaded call:
+  screenGeometry(self, screen: int = -1): first argument of unbound method must have type 'QDesktopWidget'
+  screenGeometry(self, widget: QWidget): first argument of unbound method must have type 'QDesktopWidget'
+  screenGeometry(self, point: QPoint): first argument of unbound method must have type 'QDesktopWidget'
+2026-05-24 20:19:36,067 - MalteseDesktopPet - ERROR - WSADÒÆ¶¯´íÎó: arguments did not match any overloaded call:
+  screenGeometry(self, screen: int = -1): first argument of unbound method must have type 'QDesktopWidget'
+  screenGeometry(self, widget: QWidget): first argument of unbound method must have type 'QDesktopWidget'
+  screenGeometry(self, point: QPoint): first argument of unbound method must have type 'QDesktopWidget'
+2026-05-24 20:19:36,080 - MalteseDesktopPet - ERROR - WSADÒÆ¶¯´íÎó: arguments did not match any overloaded call:
+  screenGeometry(self, screen: int = -1): first argument of unbound method must have type 'QDesktopWidget'
+  screenGeometry(self, widget: QWidget): first argument of unbound method must have type 'QDesktopWidget'
+  screenGeometry(self, point: QPoint): first argument of unbound method must have type 'QDesktopWidget'
+2026-05-24 20:19:36,095 - MalteseDesktopPet - ERROR - WSADÒÆ¶¯´íÎó: arguments did not match any overloaded call:
+  screenGeometry(self, screen: int = -1): first argument of unbound method must have type 'QDesktopWidget'
+  screenGeometry(self, widget: QWidget): first argument of unbound method must have type 'QDesktopWidget'
+  screenGeometry(self, point: QPoint): first argument of unbound method must have type 'QDesktopWidget'
+2026-05-24 20:19:36,112 - MalteseDesktopPet - ERROR - WSADÒÆ¶¯´íÎó: arguments did not match any overloaded call:
+  screenGeometry(self, screen: int = -1): first argument of unbound method must have type 'QDesktopWidget'
+  screenGeometry(self, widget: QWidget): first argument of unbound method must have type 'QDesktopWidget'
+  screenGeometry(self, point: QPoint): first argument of unbound method must have type 'QDesktopWidget'
+2026-05-24 20:19:36,127 - MalteseDesktopPet - ERROR - WSADÒÆ¶¯´íÎó: arguments did not match any overloaded call:
+  screenGeometry(self, screen: int = -1): first argument of unbound method must have type 'QDesktopWidget'
+  screenGeometry(self, widget: QWidget): first argument of unbound method must have type 'QDesktopWidget'
+  screenGeometry(self, point: QPoint): first argument of unbound method must have type 'QDesktopWidget'
+2026-05-24 20:19:36,144 - MalteseDesktopPet - ERROR - WSADÒÆ¶¯´íÎó: arguments did not match any overloaded call:
+  screenGeometry(self, screen: int = -1): first argument of unbound method must have type 'QDesktopWidget'
+  screenGeometry(self, widget: QWidget): first argument of unbound method must have type 'QDesktopWidget'
+  screenGeometry(self, point: QPoint): first argument of unbound method must have type 'QDesktopWidget'
+2026-05-24 20:19:36,160 - MalteseDesktopPet - ERROR - WSADÒÆ¶¯´íÎó: arguments did not match any overloaded call:
+  screenGeometry(self, screen: int = -1): first argument of unbound method must have type 'QDesktopWidget'
+  screenGeometry(self, widget: QWidget): first argument of unbound method must have type 'QDesktopWidget'
+  screenGeometry(self, point: QPoint): first argument of unbound method must have type 'QDesktopWidget'
+2026-05-24 20:19:36,176 - MalteseDesktopPet - ERROR - WSADÒÆ¶¯´íÎó: arguments did not match any overloaded call:
+  screenGeometry(self, screen: int = -1): first argument of unbound method must have type 'QDesktopWidget'
+  screenGeometry(self, widget: QWidget): first argument of unbound method must have type 'QDesktopWidget'
+  screenGeometry(self, point: QPoint): first argument of unbound method must have type 'QDesktopWidget'
+2026-05-24 20:19:36,192 - MalteseDesktopPet - ERROR - WSADÒÆ¶¯´íÎó: arguments did not match any overloaded call:
+  screenGeometry(self, screen: int = -1): first argument of unbound method must have type 'QDesktopWidget'
+  screenGeometry(self, widget: QWidget): first argument of unbound method must have type 'QDesktopWidget'
+  screenGeometry(self, point: QPoint): first argument of unbound method must have type 'QDesktopWidget'
+2026-05-24 20:19:36,208 - MalteseDesktopPet - ERROR - WSADÒÆ¶¯´íÎó: arguments did not match any overloaded call:
+  screenGeometry(self, screen: int = -1): first argument of unbound method must have type 'QDesktopWidget'
+  screenGeometry(self, widget: QWidget): first argument of unbound method must have type 'QDesktopWidget'
+  screenGeometry(self, point: QPoint): first argument of unbound method must have type 'QDesktopWidget'
+2026-05-24 20:19:36,995 - MalteseDesktopPet - ERROR - WSADÒÆ¶¯´íÎó: arguments did not match any overloaded call:
+  screenGeometry(self, screen: int = -1): first argument of unbound method must have type 'QDesktopWidget'
+  screenGeometry(self, widget: QWidget): first argument of unbound method must have type 'QDesktopWidget'
+  screenGeometry(self, point: QPoint): first argument of unbound method must have type 'QDesktopWidget'
+2026-05-24 20:19:37,009 - MalteseDesktopPet - ERROR - WSADÒÆ¶¯´íÎó: arguments did not match any overloaded call:
+  screenGeometry(self, screen: int = -1): first argument of unbound method must have type 'QDesktopWidget'
+  screenGeometry(self, widget: QWidget): first argument of unbound method must have type 'QDesktopWidget'
+  screenGeometry(self, point: QPoint): first argument of unbound method must have type 'QDesktopWidget'
+2026-05-24 20:19:37,024 - MalteseDesktopPet - ERROR - WSADÒÆ¶¯´íÎó: arguments did not match any overloaded call:
+  screenGeometry(self, screen: int = -1): first argument of unbound method must have type 'QDesktopWidget'
+  screenGeometry(self, widget: QWidget): first argument of unbound method must have type 'QDesktopWidget'
+  screenGeometry(self, point: QPoint): first argument of unbound method must have type 'QDesktopWidget'
+2026-05-24 20:19:37,041 - MalteseDesktopPet - ERROR - WSADÒÆ¶¯´íÎó: arguments did not match any overloaded call:
+  screenGeometry(self, screen: int = -1): first argument of unbound method must have type 'QDesktopWidget'
+  screenGeometry(self, widget: QWidget): first argument of unbound method must have type 'QDesktopWidget'
+  screenGeometry(self, point: QPoint): first argument of unbound method must have type 'QDesktopWidget'
+2026-05-24 20:19:37,057 - MalteseDesktopPet - ERROR - WSADÒÆ¶¯´íÎó: arguments did not match any overloaded call:
+  screenGeometry(self, screen: int = -1): first argument of unbound method must have type 'QDesktopWidget'
+  screenGeometry(self, widget: QWidget): first argument of unbound method must have type 'QDesktopWidget'
+  screenGeometry(self, point: QPoint): first argument of unbound method must have type 'QDesktopWidget'
+2026-05-24 20:19:37,076 - MalteseDesktopPet - ERROR - WSADÒÆ¶¯´íÎó: arguments did not match any overloaded call:
+  screenGeometry(self, screen: int = -1): first argument of unbound method must have type 'QDesktopWidget'
+  screenGeometry(self, widget: QWidget): first argument of unbound method must have type 'QDesktopWidget'
+  screenGeometry(self, point: QPoint): first argument of unbound method must have type 'QDesktopWidget'
+2026-05-24 20:19:37,088 - MalteseDesktopPet - ERROR - WSADÒÆ¶¯´íÎó: arguments did not match any overloaded call:
+  screenGeometry(self, screen: int = -1): first argument of unbound method must have type 'QDesktopWidget'
+  screenGeometry(self, widget: QWidget): first argument of unbound method must have type 'QDesktopWidget'
+  screenGeometry(self, point: QPoint): first argument of unbound method must have type 'QDesktopWidget'
+2026-05-24 20:19:37,106 - MalteseDesktopPet - ERROR - WSADÒÆ¶¯´íÎó: arguments did not match any overloaded call:
+  screenGeometry(self, screen: int = -1): first argument of unbound method must have type 'QDesktopWidget'
+  screenGeometry(self, widget: QWidget): first argument of unbound method must have type 'QDesktopWidget'
+  screenGeometry(self, point: QPoint): first argument of unbound method must have type 'QDesktopWidget'
+2026-05-24 20:19:37,120 - MalteseDesktopPet - ERROR - WSADÒÆ¶¯´íÎó: arguments did not match any overloaded call:
+  screenGeometry(self, screen: int = -1): first argument of unbound method must have type 'QDesktopWidget'
+  screenGeometry(self, widget: QWidget): first argument of unbound method must have type 'QDesktopWidget'
+  screenGeometry(self, point: QPoint): first argument of unbound method must have type 'QDesktopWidget'
+2026-05-24 20:19:37,136 - MalteseDesktopPet - ERROR - WSADÒÆ¶¯´íÎó: arguments did not match any overloaded call:
+  screenGeometry(self, screen: int = -1): first argument of unbound method must have type 'QDesktopWidget'
+  screenGeometry(self, widget: QWidget): first argument of unbound method must have type 'QDesktopWidget'
+  screenGeometry(self, point: QPoint): first argument of unbound method must have type 'QDesktopWidget'
+2026-05-24 20:19:37,153 - MalteseDesktopPet - ERROR - WSADÒÆ¶¯´íÎó: arguments did not match any overloaded call:
+  screenGeometry(self, screen: int = -1): first argument of unbound method must have type 'QDesktopWidget'
+  screenGeometry(self, widget: QWidget): first argument of unbound method must have type 'QDesktopWidget'
+  screenGeometry(self, point: QPoint): first argument of unbound method must have type 'QDesktopWidget'
+2026-05-24 20:19:37,168 - MalteseDesktopPet - ERROR - WSADÒÆ¶¯´íÎó: arguments did not match any overloaded call:
+  screenGeometry(self, screen: int = -1): first argument of unbound method must have type 'QDesktopWidget'
+  screenGeometry(self, widget: QWidget): first argument of unbound method must have type 'QDesktopWidget'
+  screenGeometry(self, point: QPoint): first argument of unbound method must have type 'QDesktopWidget'
+2026-05-24 20:19:37,184 - MalteseDesktopPet - ERROR - WSADÒÆ¶¯´íÎó: arguments did not match any overloaded call:
+  screenGeometry(self, screen: int = -1): first argument of unbound method must have type 'QDesktopWidget'
+  screenGeometry(self, widget: QWidget): first argument of unbound method must have type 'QDesktopWidget'
+  screenGeometry(self, point: QPoint): first argument of unbound method must have type 'QDesktopWidget'
+2026-05-24 20:19:37,200 - MalteseDesktopPet - ERROR - WSADÒÆ¶¯´íÎó: arguments did not match any overloaded call:
+  screenGeometry(self, screen: int = -1): first argument of unbound method must have type 'QDesktopWidget'
+  screenGeometry(self, widget: QWidget): first argument of unbound method must have type 'QDesktopWidget'
+  screenGeometry(self, point: QPoint): first argument of unbound method must have type 'QDesktopWidget'
+2026-05-24 20:19:37,217 - MalteseDesktopPet - ERROR - WSADÒÆ¶¯´íÎó: arguments did not match any overloaded call:
+  screenGeometry(self, screen: int = -1): first argument of unbound method must have type 'QDesktopWidget'
+  screenGeometry(self, widget: QWidget): first argument of unbound method must have type 'QDesktopWidget'
+  screenGeometry(self, point: QPoint): first argument of unbound method must have type 'QDesktopWidget'
+2026-05-24 20:19:37,234 - MalteseDesktopPet - ERROR - WSADÒÆ¶¯´íÎó: arguments did not match any overloaded call:
+  screenGeometry(self, screen: int = -1): first argument of unbound method must have type 'QDesktopWidget'
+  screenGeometry(self, widget: QWidget): first argument of unbound method must have type 'QDesktopWidget'
+  screenGeometry(self, point: QPoint): first argument of unbound method must have type 'QDesktopWidget'
+2026-05-24 20:19:37,249 - MalteseDesktopPet - ERROR - WSADÒÆ¶¯´íÎó: arguments did not match any overloaded call:
+  screenGeometry(self, screen: int = -1): first argument of unbound method must have type 'QDesktopWidget'
+  screenGeometry(self, widget: QWidget): first argument of unbound method must have type 'QDesktopWidget'
+  screenGeometry(self, point: QPoint): first argument of unbound method must have type 'QDesktopWidget'
+2026-05-24 20:19:37,265 - MalteseDesktopPet - ERROR - WSADÒÆ¶¯´íÎó: arguments did not match any overloaded call:
+  screenGeometry(self, screen: int = -1): first argument of unbound method must have type 'QDesktopWidget'
+  screenGeometry(self, widget: QWidget): first argument of unbound method must have type 'QDesktopWidget'
+  screenGeometry(self, point: QPoint): first argument of unbound method must have type 'QDesktopWidget'
+2026-05-24 20:19:37,280 - MalteseDesktopPet - ERROR - WSADÒÆ¶¯´íÎó: arguments did not match any overloaded call:
+  screenGeometry(self, screen: int = -1): first argument of unbound method must have type 'QDesktopWidget'
+  screenGeometry(self, widget: QWidget): first argument of unbound method must have type 'QDesktopWidget'
+  screenGeometry(self, point: QPoint): first argument of unbound method must have type 'QDesktopWidget'
+2026-05-24 20:19:37,296 - MalteseDesktopPet - ERROR - WSADÒÆ¶¯´íÎó: arguments did not match any overloaded call:
+  screenGeometry(self, screen: int = -1): first argument of unbound method must have type 'QDesktopWidget'
+  screenGeometry(self, widget: QWidget): first argument of unbound method must have type 'QDesktopWidget'
+  screenGeometry(self, point: QPoint): first argument of unbound method must have type 'QDesktopWidget'
+2026-05-24 20:19:37,312 - MalteseDesktopPet - ERROR - WSADÒÆ¶¯´íÎó: arguments did not match any overloaded call:
+  screenGeometry(self, screen: int = -1): first argument of unbound method must have type 'QDesktopWidget'
+  screenGeometry(self, widget: QWidget): first argument of unbound method must have type 'QDesktopWidget'
+  screenGeometry(self, point: QPoint): first argument of unbound method must have type 'QDesktopWidget'
+2026-05-24 20:19:37,330 - MalteseDesktopPet - ERROR - WSADÒÆ¶¯´íÎó: arguments did not match any overloaded call:
+  screenGeometry(self, screen: int = -1): first argument of unbound method must have type 'QDesktopWidget'
+  screenGeometry(self, widget: QWidget): first argument of unbound method must have type 'QDesktopWidget'
+  screenGeometry(self, point: QPoint): first argument of unbound method must have type 'QDesktopWidget'
+2026-05-24 20:19:37,346 - MalteseDesktopPet - ERROR - WSADÒÆ¶¯´íÎó: arguments did not match any overloaded call:
+  screenGeometry(self, screen: int = -1): first argument of unbound method must have type 'QDesktopWidget'
+  screenGeometry(self, widget: QWidget): first argument of unbound method must have type 'QDesktopWidget'
+  screenGeometry(self, point: QPoint): first argument of unbound method must have type 'QDesktopWidget'
+2026-05-24 20:19:38,464 - MalteseDesktopPet - ERROR - WSADÒÆ¶¯´íÎó: arguments did not match any overloaded call:
+  screenGeometry(self, screen: int = -1): first argument of unbound method must have type 'QDesktopWidget'
+  screenGeometry(self, widget: QWidget): first argument of unbound method must have type 'QDesktopWidget'
+  screenGeometry(self, point: QPoint): first argument of unbound method must have type 'QDesktopWidget'
+2026-05-24 20:19:38,481 - MalteseDesktopPet - ERROR - WSADÒÆ¶¯´íÎó: arguments did not match any overloaded call:
+  screenGeometry(self, screen: int = -1): first argument of unbound method must have type 'QDesktopWidget'
+  screenGeometry(self, widget: QWidget): first argument of unbound method must have type 'QDesktopWidget'
+  screenGeometry(self, point: QPoint): first argument of unbound method must have type 'QDesktopWidget'
+2026-05-24 20:19:38,497 - MalteseDesktopPet - ERROR - WSADÒÆ¶¯´íÎó: arguments did not match any overloaded call:
+  screenGeometry(self, screen: int = -1): first argument of unbound method must have type 'QDesktopWidget'
+  screenGeometry(self, widget: QWidget): first argument of unbound method must have type 'QDesktopWidget'
+  screenGeometry(self, point: QPoint): first argument of unbound method must have type 'QDesktopWidget'
+2026-05-24 20:19:38,512 - MalteseDesktopPet - ERROR - WSADÒÆ¶¯´íÎó: arguments did not match any overloaded call:
+  screenGeometry(self, screen: int = -1): first argument of unbound method must have type 'QDesktopWidget'
+  screenGeometry(self, widget: QWidget): first argument of unbound method must have type 'QDesktopWidget'
+  screenGeometry(self, point: QPoint): first argument of unbound method must have type 'QDesktopWidget'
+2026-05-24 20:19:38,530 - MalteseDesktopPet - ERROR - WSADÒÆ¶¯´íÎó: arguments did not match any overloaded call:
+  screenGeometry(self, screen: int = -1): first argument of unbound method must have type 'QDesktopWidget'
+  screenGeometry(self, widget: QWidget): first argument of unbound method must have type 'QDesktopWidget'
+  screenGeometry(self, point: QPoint): first argument of unbound method must have type 'QDesktopWidget'
+2026-05-24 20:19:38,547 - MalteseDesktopPet - ERROR - WSADÒÆ¶¯´íÎó: arguments did not match any overloaded call:
+  screenGeometry(self, screen: int = -1): first argument of unbound method must have type 'QDesktopWidget'
+  screenGeometry(self, widget: QWidget): first argument of unbound method must have type 'QDesktopWidget'
+  screenGeometry(self, point: QPoint): first argument of unbound method must have type 'QDesktopWidget'
+2026-05-24 20:19:38,560 - MalteseDesktopPet - ERROR - WSADÒÆ¶¯´íÎó: arguments did not match any overloaded call:
+  screenGeometry(self, screen: int = -1): first argument of unbound method must have type 'QDesktopWidget'
+  screenGeometry(self, widget: QWidget): first argument of unbound method must have type 'QDesktopWidget'
+  screenGeometry(self, point: QPoint): first argument of unbound method must have type 'QDesktopWidget'
+2026-05-24 20:19:38,576 - MalteseDesktopPet - ERROR - WSADÒÆ¶¯´íÎó: arguments did not match any overloaded call:
+  screenGeometry(self, screen: int = -1): first argument of unbound method must have type 'QDesktopWidget'
+  screenGeometry(self, widget: QWidget): first argument of unbound method must have type 'QDesktopWidget'
+  screenGeometry(self, point: QPoint): first argument of unbound method must have type 'QDesktopWidget'
+2026-05-24 20:19:38,593 - MalteseDesktopPet - ERROR - WSADÒÆ¶¯´íÎó: arguments did not match any overloaded call:
+  screenGeometry(self, screen: int = -1): first argument of unbound method must have type 'QDesktopWidget'
+  screenGeometry(self, widget: QWidget): first argument of unbound method must have type 'QDesktopWidget'
+  screenGeometry(self, point: QPoint): first argument of unbound method must have type 'QDesktopWidget'
+2026-05-24 20:19:38,608 - MalteseDesktopPet - ERROR - WSADÒÆ¶¯´íÎó: arguments did not match any overloaded call:
+  screenGeometry(self, screen: int = -1): first argument of unbound method must have type 'QDesktopWidget'
+  screenGeometry(self, widget: QWidget): first argument of unbound method must have type 'QDesktopWidget'
+  screenGeometry(self, point: QPoint): first argument of unbound method must have type 'QDesktopWidget'
+2026-05-24 20:19:38,626 - MalteseDesktopPet - ERROR - WSADÒÆ¶¯´íÎó: arguments did not match any overloaded call:
+  screenGeometry(self, screen: int = -1): first argument of unbound method must have type 'QDesktopWidget'
+  screenGeometry(self, widget: QWidget): first argument of unbound method must have type 'QDesktopWidget'
+  screenGeometry(self, point: QPoint): first argument of unbound method must have type 'QDesktopWidget'
+2026-05-24 20:19:38,641 - MalteseDesktopPet - ERROR - WSADÒÆ¶¯´íÎó: arguments did not match any overloaded call:
+  screenGeometry(self, screen: int = -1): first argument of unbound method must have type 'QDesktopWidget'
+  screenGeometry(self, widget: QWidget): first argument of unbound method must have type 'QDesktopWidget'
+  screenGeometry(self, point: QPoint): first argument of unbound method must have type 'QDesktopWidget'
+2026-05-24 20:19:38,655 - MalteseDesktopPet - ERROR - WSADÒÆ¶¯´íÎó: arguments did not match any overloaded call:
+  screenGeometry(self, screen: int = -1): first argument of unbound method must have type 'QDesktopWidget'
+  screenGeometry(self, widget: QWidget): first argument of unbound method must have type 'QDesktopWidget'
+  screenGeometry(self, point: QPoint): first argument of unbound method must have type 'QDesktopWidget'
+2026-05-24 20:19:38,672 - MalteseDesktopPet - ERROR - WSADÒÆ¶¯´íÎó: arguments did not match any overloaded call:
+  screenGeometry(self, screen: int = -1): first argument of unbound method must have type 'QDesktopWidget'
+  screenGeometry(self, widget: QWidget): first argument of unbound method must have type 'QDesktopWidget'
+  screenGeometry(self, point: QPoint): first argument of unbound method must have type 'QDesktopWidget'
+2026-05-24 20:19:38,690 - MalteseDesktopPet - ERROR - WSADÒÆ¶¯´íÎó: arguments did not match any overloaded call:
+  screenGeometry(self, screen: int = -1): first argument of unbound method must have type 'QDesktopWidget'
+  screenGeometry(self, widget: QWidget): first argument of unbound method must have type 'QDesktopWidget'
+  screenGeometry(self, point: QPoint): first argument of unbound method must have type 'QDesktopWidget'
+2026-05-24 20:19:38,704 - MalteseDesktopPet - ERROR - WSADÒÆ¶¯´íÎó: arguments did not match any overloaded call:
+  screenGeometry(self, screen: int = -1): first argument of unbound method must have type 'QDesktopWidget'
+  screenGeometry(self, widget: QWidget): first argument of unbound method must have type 'QDesktopWidget'
+  screenGeometry(self, point: QPoint): first argument of unbound method must have type 'QDesktopWidget'
+2026-05-24 20:19:38,720 - MalteseDesktopPet - ERROR - WSADÒÆ¶¯´íÎó: arguments did not match any overloaded call:
+  screenGeometry(self, screen: int = -1): first argument of unbound method must have type 'QDesktopWidget'
+  screenGeometry(self, widget: QWidget): first argument of unbound method must have type 'QDesktopWidget'
+  screenGeometry(self, point: QPoint): first argument of unbound method must have type 'QDesktopWidget'
+2026-05-24 20:19:38,736 - MalteseDesktopPet - ERROR - WSADÒÆ¶¯´íÎó: arguments did not match any overloaded call:
+  screenGeometry(self, screen: int = -1): first argument of unbound method must have type 'QDesktopWidget'
+  screenGeometry(self, widget: QWidget): first argument of unbound method must have type 'QDesktopWidget'
+  screenGeometry(self, point: QPoint): first argument of unbound method must have type 'QDesktopWidget'
+2026-05-24 20:19:38,753 - MalteseDesktopPet - ERROR - WSADÒÆ¶¯´íÎó: arguments did not match any overloaded call:
+  screenGeometry(self, screen: int = -1): first argument of unbound method must have type 'QDesktopWidget'
+  screenGeometry(self, widget: QWidget): first argument of unbound method must have type 'QDesktopWidget'
+  screenGeometry(self, point: QPoint): first argument of unbound method must have type 'QDesktopWidget'
+2026-05-24 20:19:38,770 - MalteseDesktopPet - ERROR - WSADÒÆ¶¯´íÎó: arguments did not match any overloaded call:
+  screenGeometry(self, screen: int = -1): first argument of unbound method must have type 'QDesktopWidget'
+  screenGeometry(self, widget: QWidget): first argument of unbound method must have type 'QDesktopWidget'
+  screenGeometry(self, point: QPoint): first argument of unbound method must have type 'QDesktopWidget'
+2026-05-24 20:19:38,786 - MalteseDesktopPet - ERROR - WSADÒÆ¶¯´íÎó: arguments did not match any overloaded call:
+  screenGeometry(self, screen: int = -1): first argument of unbound method must have type 'QDesktopWidget'
+  screenGeometry(self, widget: QWidget): first argument of unbound method must have type 'QDesktopWidget'
+  screenGeometry(self, point: QPoint): first argument of unbound method must have type 'QDesktopWidget'
+2026-05-24 20:19:38,799 - MalteseDesktopPet - ERROR - WSADÒÆ¶¯´íÎó: arguments did not match any overloaded call:
+  screenGeometry(self, screen: int = -1): first argument of unbound method must have type 'QDesktopWidget'
+  screenGeometry(self, widget: QWidget): first argument of unbound method must have type 'QDesktopWidget'
+  screenGeometry(self, point: QPoint): first argument of unbound method must have type 'QDesktopWidget'
+2026-05-24 20:19:38,816 - MalteseDesktopPet - ERROR - WSADÒÆ¶¯´íÎó: arguments did not match any overloaded call:
+  screenGeometry(self, screen: int = -1): first argument of unbound method must have type 'QDesktopWidget'
+  screenGeometry(self, widget: QWidget): first argument of unbound method must have type 'QDesktopWidget'
+  screenGeometry(self, point: QPoint): first argument of unbound method must have type 'QDesktopWidget'
+2026-05-24 20:19:38,832 - MalteseDesktopPet - ERROR - WSADÒÆ¶¯´íÎó: arguments did not match any overloaded call:
+  screenGeometry(self, screen: int = -1): first argument of unbound method must have type 'QDesktopWidget'
+  screenGeometry(self, widget: QWidget): first argument of unbound method must have type 'QDesktopWidget'
+  screenGeometry(self, point: QPoint): first argument of unbound method must have type 'QDesktopWidget'
+2026-05-24 20:19:38,848 - MalteseDesktopPet - ERROR - WSADÒÆ¶¯´íÎó: arguments did not match any overloaded call:
+  screenGeometry(self, screen: int = -1): first argument of unbound method must have type 'QDesktopWidget'
+  screenGeometry(self, widget: QWidget): first argument of unbound method must have type 'QDesktopWidget'
+  screenGeometry(self, point: QPoint): first argument of unbound method must have type 'QDesktopWidget'
+2026-05-24 20:19:38,865 - MalteseDesktopPet - ERROR - WSADÒÆ¶¯´íÎó: arguments did not match any overloaded call:
+  screenGeometry(self, screen: int = -1): first argument of unbound method must have type 'QDesktopWidget'
+  screenGeometry(self, widget: QWidget): first argument of unbound method must have type 'QDesktopWidget'
+  screenGeometry(self, point: QPoint): first argument of unbound method must have type 'QDesktopWidget'
+2026-05-24 20:19:38,880 - MalteseDesktopPet - ERROR - WSADÒÆ¶¯´íÎó: arguments did not match any overloaded call:
+  screenGeometry(self, screen: int = -1): first argument of unbound method must have type 'QDesktopWidget'
+  screenGeometry(self, widget: QWidget): first argument of unbound method must have type 'QDesktopWidget'
+  screenGeometry(self, point: QPoint): first argument of unbound method must have type 'QDesktopWidget'
+2026-05-24 20:19:38,895 - MalteseDesktopPet - ERROR - WSADÒÆ¶¯´íÎó: arguments did not match any overloaded call:
+  screenGeometry(self, screen: int = -1): first argument of unbound method must have type 'QDesktopWidget'
+  screenGeometry(self, widget: QWidget): first argument of unbound method must have type 'QDesktopWidget'
+  screenGeometry(self, point: QPoint): first argument of unbound method must have type 'QDesktopWidget'
+2026-05-24 20:19:38,913 - MalteseDesktopPet - ERROR - WSADÒÆ¶¯´íÎó: arguments did not match any overloaded call:
+  screenGeometry(self, screen: int = -1): first argument of unbound method must have type 'QDesktopWidget'
+  screenGeometry(self, widget: QWidget): first argument of unbound method must have type 'QDesktopWidget'
+  screenGeometry(self, point: QPoint): first argument of unbound method must have type 'QDesktopWidget'
+2026-05-24 20:19:38,928 - MalteseDesktopPet - ERROR - WSADÒÆ¶¯´íÎó: arguments did not match any overloaded call:
+  screenGeometry(self, screen: int = -1): first argument of unbound method must have type 'QDesktopWidget'
+  screenGeometry(self, widget: QWidget): first argument of unbound method must have type 'QDesktopWidget'
+  screenGeometry(self, point: QPoint): first argument of unbound method must have type 'QDesktopWidget'
+2026-05-24 20:19:38,944 - MalteseDesktopPet - ERROR - WSADÒÆ¶¯´íÎó: arguments did not match any overloaded call:
+  screenGeometry(self, screen: int = -1): first argument of unbound method must have type 'QDesktopWidget'
+  screenGeometry(self, widget: QWidget): first argument of unbound method must have type 'QDesktopWidget'
+  screenGeometry(self, point: QPoint): first argument of unbound method must have type 'QDesktopWidget'
+2026-05-24 20:19:38,961 - MalteseDesktopPet - ERROR - WSADÒÆ¶¯´íÎó: arguments did not match any overloaded call:
+  screenGeometry(self, screen: int = -1): first argument of unbound method must have type 'QDesktopWidget'
+  screenGeometry(self, widget: QWidget): first argument of unbound method must have type 'QDesktopWidget'
+  screenGeometry(self, point: QPoint): first argument of unbound method must have type 'QDesktopWidget'
+2026-05-24 20:19:38,977 - MalteseDesktopPet - ERROR - WSADÒÆ¶¯´íÎó: arguments did not match any overloaded call:
+  screenGeometry(self, screen: int = -1): first argument of unbound method must have type 'QDesktopWidget'
+  screenGeometry(self, widget: QWidget): first argument of unbound method must have type 'QDesktopWidget'
+  screenGeometry(self, point: QPoint): first argument of unbound method must have type 'QDesktopWidget'
+2026-05-24 20:19:39,568 - MalteseDesktopPet - ERROR - WSADÒÆ¶¯´íÎó: arguments did not match any overloaded call:
+  screenGeometry(self, screen: int = -1): first argument of unbound method must have type 'QDesktopWidget'
+  screenGeometry(self, widget: QWidget): first argument of unbound method must have type 'QDesktopWidget'
+  screenGeometry(self, point: QPoint): first argument of unbound method must have type 'QDesktopWidget'
+2026-05-24 20:19:39,584 - MalteseDesktopPet - ERROR - WSADÒÆ¶¯´íÎó: arguments did not match any overloaded call:
+  screenGeometry(self, screen: int = -1): first argument of unbound method must have type 'QDesktopWidget'
+  screenGeometry(self, widget: QWidget): first argument of unbound method must have type 'QDesktopWidget'
+  screenGeometry(self, point: QPoint): first argument of unbound method must have type 'QDesktopWidget'
+2026-05-24 20:19:39,600 - MalteseDesktopPet - ERROR - WSADÒÆ¶¯´íÎó: arguments did not match any overloaded call:
+  screenGeometry(self, screen: int = -1): first argument of unbound method must have type 'QDesktopWidget'
+  screenGeometry(self, widget: QWidget): first argument of unbound method must have type 'QDesktopWidget'
+  screenGeometry(self, point: QPoint): first argument of unbound method must have type 'QDesktopWidget'
+2026-05-24 20:19:39,615 - MalteseDesktopPet - ERROR - WSADÒÆ¶¯´íÎó: arguments did not match any overloaded call:
+  screenGeometry(self, screen: int = -1): first argument of unbound method must have type 'QDesktopWidget'
+  screenGeometry(self, widget: QWidget): first argument of unbound method must have type 'QDesktopWidget'
+  screenGeometry(self, point: QPoint): first argument of unbound method must have type 'QDesktopWidget'
+2026-05-24 20:19:39,632 - MalteseDesktopPet - ERROR - WSADÒÆ¶¯´íÎó: arguments did not match any overloaded call:
+  screenGeometry(self, screen: int = -1): first argument of unbound method must have type 'QDesktopWidget'
+  screenGeometry(self, widget: QWidget): first argument of unbound method must have type 'QDesktopWidget'
+  screenGeometry(self, point: QPoint): first argument of unbound method must have type 'QDesktopWidget'
+2026-05-24 20:19:39,648 - MalteseDesktopPet - ERROR - WSADÒÆ¶¯´íÎó: arguments did not match any overloaded call:
+  screenGeometry(self, screen: int = -1): first argument of unbound method must have type 'QDesktopWidget'
+  screenGeometry(self, widget: QWidget): first argument of unbound method must have type 'QDesktopWidget'
+  screenGeometry(self, point: QPoint): first argument of unbound method must have type 'QDesktopWidget'
+2026-05-24 20:19:39,664 - MalteseDesktopPet - ERROR - WSADÒÆ¶¯´íÎó: arguments did not match any overloaded call:
+  screenGeometry(self, screen: int = -1): first argument of unbound method must have type 'QDesktopWidget'
+  screenGeometry(self, widget: QWidget): first argument of unbound method must have type 'QDesktopWidget'
+  screenGeometry(self, point: QPoint): first argument of unbound method must have type 'QDesktopWidget'
+2026-05-24 20:19:39,680 - MalteseDesktopPet - ERROR - WSADÒÆ¶¯´íÎó: arguments did not match any overloaded call:
+  screenGeometry(self, screen: int = -1): first argument of unbound method must have type 'QDesktopWidget'
+  screenGeometry(self, widget: QWidget): first argument of unbound method must have type 'QDesktopWidget'
+  screenGeometry(self, point: QPoint): first argument of unbound method must have type 'QDesktopWidget'
+2026-05-24 20:19:39,696 - MalteseDesktopPet - ERROR - WSADÒÆ¶¯´íÎó: arguments did not match any overloaded call:
+  screenGeometry(self, screen: int = -1): first argument of unbound method must have type 'QDesktopWidget'
+  screenGeometry(self, widget: QWidget): first argument of unbound method must have type 'QDesktopWidget'
+  screenGeometry(self, point: QPoint): first argument of unbound method must have type 'QDesktopWidget'
+2026-05-24 20:19:39,713 - MalteseDesktopPet - ERROR - WSADÒÆ¶¯´íÎó: arguments did not match any overloaded call:
+  screenGeometry(self, screen: int = -1): first argument of unbound method must have type 'QDesktopWidget'
+  screenGeometry(self, widget: QWidget): first argument of unbound method must have type 'QDesktopWidget'
+  screenGeometry(self, point: QPoint): first argument of unbound method must have type 'QDesktopWidget'
+2026-05-24 20:19:39,728 - MalteseDesktopPet - ERROR - WSADÒÆ¶¯´íÎó: arguments did not match any overloaded call:
+  screenGeometry(self, screen: int = -1): first argument of unbound method must have type 'QDesktopWidget'
+  screenGeometry(self, widget: QWidget): first argument of unbound method must have type 'QDesktopWidget'
+  screenGeometry(self, point: QPoint): first argument of unbound method must have type 'QDesktopWidget'
+2026-05-24 20:19:39,745 - MalteseDesktopPet - ERROR - WSADÒÆ¶¯´íÎó: arguments did not match any overloaded call:
+  screenGeometry(self, screen: int = -1): first argument of unbound method must have type 'QDesktopWidget'
+  screenGeometry(self, widget: QWidget): first argument of unbound method must have type 'QDesktopWidget'
+  screenGeometry(self, point: QPoint): first argument of unbound method must have type 'QDesktopWidget'
+2026-05-24 20:19:39,760 - MalteseDesktopPet - ERROR - WSADÒÆ¶¯´íÎó: arguments did not match any overloaded call:
+  screenGeometry(self, screen: int = -1): first argument of unbound method must have type 'QDesktopWidget'
+  screenGeometry(self, widget: QWidget): first argument of unbound method must have type 'QDesktopWidget'
+  screenGeometry(self, point: QPoint): first argument of unbound method must have type 'QDesktopWidget'
+2026-05-24 20:19:39,776 - MalteseDesktopPet - ERROR - WSADÒÆ¶¯´íÎó: arguments did not match any overloaded call:
+  screenGeometry(self, screen: int = -1): first argument of unbound method must have type 'QDesktopWidget'
+  screenGeometry(self, widget: QWidget): first argument of unbound method must have type 'QDesktopWidget'
+  screenGeometry(self, point: QPoint): first argument of unbound method must have type 'QDesktopWidget'
+2026-05-24 20:19:40,608 - MalteseDesktopPet - ERROR - WSADÒÆ¶¯´íÎó: arguments did not match any overloaded call:
+  screenGeometry(self, screen: int = -1): first argument of unbound method must have type 'QDesktopWidget'
+  screenGeometry(self, widget: QWidget): first argument of unbound method must have type 'QDesktopWidget'
+  screenGeometry(self, point: QPoint): first argument of unbound method must have type 'QDesktopWidget'
+2026-05-24 20:19:40,624 - MalteseDesktopPet - ERROR - WSADÒÆ¶¯´íÎó: arguments did not match any overloaded call:
+  screenGeometry(self, screen: int = -1): first argument of unbound method must have type 'QDesktopWidget'
+  screenGeometry(self, widget: QWidget): first argument of unbound method must have type 'QDesktopWidget'
+  screenGeometry(self, point: QPoint): first argument of unbound method must have type 'QDesktopWidget'
+2026-05-24 20:19:40,640 - MalteseDesktopPet - ERROR - WSADÒÆ¶¯´íÎó: arguments did not match any overloaded call:
+  screenGeometry(self, screen: int = -1): first argument of unbound method must have type 'QDesktopWidget'
+  screenGeometry(self, widget: QWidget): first argument of unbound method must have type 'QDesktopWidget'
+  screenGeometry(self, point: QPoint): first argument of unbound method must have type 'QDesktopWidget'
+2026-05-24 20:19:40,657 - MalteseDesktopPet - ERROR - WSADÒÆ¶¯´íÎó: arguments did not match any overloaded call:
+  screenGeometry(self, screen: int = -1): first argument of unbound method must have type 'QDesktopWidget'
+  screenGeometry(self, widget: QWidget): first argument of unbound method must have type 'QDesktopWidget'
+  screenGeometry(self, point: QPoint): first argument of unbound method must have type 'QDesktopWidget'
+2026-05-24 20:19:40,672 - MalteseDesktopPet - ERROR - WSADÒÆ¶¯´íÎó: arguments did not match any overloaded call:
+  screenGeometry(self, screen: int = -1): first argument of unbound method must have type 'QDesktopWidget'
+  screenGeometry(self, widget: QWidget): first argument of unbound method must have type 'QDesktopWidget'
+  screenGeometry(self, point: QPoint): first argument of unbound method must have type 'QDesktopWidget'
+2026-05-24 20:19:40,690 - MalteseDesktopPet - ERROR - WSADÒÆ¶¯´íÎó: arguments did not match any overloaded call:
+  screenGeometry(self, screen: int = -1): first argument of unbound method must have type 'QDesktopWidget'
+  screenGeometry(self, widget: QWidget): first argument of unbound method must have type 'QDesktopWidget'
+  screenGeometry(self, point: QPoint): first argument of unbound method must have type 'QDesktopWidget'
+2026-05-24 20:19:40,704 - MalteseDesktopPet - ERROR - WSADÒÆ¶¯´íÎó: arguments did not match any overloaded call:
+  screenGeometry(self, screen: int = -1): first argument of unbound method must have type 'QDesktopWidget'
+  screenGeometry(self, widget: QWidget): first argument of unbound method must have type 'QDesktopWidget'
+  screenGeometry(self, point: QPoint): first argument of unbound method must have type 'QDesktopWidget'
+2026-05-24 20:19:40,722 - MalteseDesktopPet - ERROR - WSADÒÆ¶¯´íÎó: arguments did not match any overloaded call:
+  screenGeometry(self, screen: int = -1): first argument of unbound method must have type 'QDesktopWidget'
+  screenGeometry(self, widget: QWidget): first argument of unbound method must have type 'QDesktopWidget'
+  screenGeometry(self, point: QPoint): first argument of unbound method must have type 'QDesktopWidget'
+2026-05-24 20:19:40,736 - MalteseDesktopPet - ERROR - WSADÒÆ¶¯´íÎó: arguments did not match any overloaded call:
+  screenGeometry(self, screen: int = -1): first argument of unbound method must have type 'QDesktopWidget'
+  screenGeometry(self, widget: QWidget): first argument of unbound method must have type 'QDesktopWidget'
+  screenGeometry(self, point: QPoint): first argument of unbound method must have type 'QDesktopWidget'
+2026-05-24 20:19:40,753 - MalteseDesktopPet - ERROR - WSADÒÆ¶¯´íÎó: arguments did not match any overloaded call:
+  screenGeometry(self, screen: int = -1): first argument of unbound method must have type 'QDesktopWidget'
+  screenGeometry(self, widget: QWidget): first argument of unbound method must have type 'QDesktopWidget'
+  screenGeometry(self, point: QPoint): first argument of unbound method must have type 'QDesktopWidget'
+2026-05-24 20:19:40,768 - MalteseDesktopPet - ERROR - WSADÒÆ¶¯´íÎó: arguments did not match any overloaded call:
+  screenGeometry(self, screen: int = -1): first argument of unbound method must have type 'QDesktopWidget'
+  screenGeometry(self, widget: QWidget): first argument of unbound method must have type 'QDesktopWidget'
+  screenGeometry(self, point: QPoint): first argument of unbound method must have type 'QDesktopWidget'
+2026-05-24 20:19:40,784 - MalteseDesktopPet - ERROR - WSADÒÆ¶¯´íÎó: arguments did not match any overloaded call:
+  screenGeometry(self, screen: int = -1): first argument of unbound method must have type 'QDesktopWidget'
+  screenGeometry(self, widget: QWidget): first argument of unbound method must have type 'QDesktopWidget'
+  screenGeometry(self, point: QPoint): first argument of unbound method must have type 'QDesktopWidget'
+2026-05-24 20:19:40,801 - MalteseDesktopPet - ERROR - WSADÒÆ¶¯´íÎó: arguments did not match any overloaded call:
+  screenGeometry(self, screen: int = -1): first argument of unbound method must have type 'QDesktopWidget'
+  screenGeometry(self, widget: QWidget): first argument of unbound method must have type 'QDesktopWidget'
+  screenGeometry(self, point: QPoint): first argument of unbound method must have type 'QDesktopWidget'
+2026-05-24 20:19:40,818 - MalteseDesktopPet - ERROR - WSADÒÆ¶¯´íÎó: arguments did not match any overloaded call:
+  screenGeometry(self, screen: int = -1): first argument of unbound method must have type 'QDesktopWidget'
+  screenGeometry(self, widget: QWidget): first argument of unbound method must have type 'QDesktopWidget'
+  screenGeometry(self, point: QPoint): first argument of unbound method must have type 'QDesktopWidget'
+2026-05-24 20:19:40,835 - MalteseDesktopPet - ERROR - WSADÒÆ¶¯´íÎó: arguments did not match any overloaded call:
+  screenGeometry(self, screen: int = -1): first argument of unbound method must have type 'QDesktopWidget'
+  screenGeometry(self, widget: QWidget): first argument of unbound method must have type 'QDesktopWidget'
+  screenGeometry(self, point: QPoint): first argument of unbound method must have type 'QDesktopWidget'
+2026-05-24 20:19:40,849 - MalteseDesktopPet - ERROR - WSADÒÆ¶¯´íÎó: arguments did not match any overloaded call:
+  screenGeometry(self, screen: int = -1): first argument of unbound method must have type 'QDesktopWidget'
+  screenGeometry(self, widget: QWidget): first argument of unbound method must have type 'QDesktopWidget'
+  screenGeometry(self, point: QPoint): first argument of unbound method must have type 'QDesktopWidget'
+2026-05-24 20:19:40,866 - MalteseDesktopPet - ERROR - WSADÒÆ¶¯´íÎó: arguments did not match any overloaded call:
+  screenGeometry(self, screen: int = -1): first argument of unbound method must have type 'QDesktopWidget'
+  screenGeometry(self, widget: QWidget): first argument of unbound method must have type 'QDesktopWidget'
+  screenGeometry(self, point: QPoint): first argument of unbound method must have type 'QDesktopWidget'
+2026-05-24 20:19:40,880 - MalteseDesktopPet - ERROR - WSADÒÆ¶¯´íÎó: arguments did not match any overloaded call:
+  screenGeometry(self, screen: int = -1): first argument of unbound method must have type 'QDesktopWidget'
+  screenGeometry(self, widget: QWidget): first argument of unbound method must have type 'QDesktopWidget'
+  screenGeometry(self, point: QPoint): first argument of unbound method must have type 'QDesktopWidget'
+2026-05-24 20:19:40,896 - MalteseDesktopPet - ERROR - WSADÒÆ¶¯´íÎó: arguments did not match any overloaded call:
+  screenGeometry(self, screen: int = -1): first argument of unbound method must have type 'QDesktopWidget'
+  screenGeometry(self, widget: QWidget): first argument of unbound method must have type 'QDesktopWidget'
+  screenGeometry(self, point: QPoint): first argument of unbound method must have type 'QDesktopWidget'
+2026-05-24 20:19:40,912 - MalteseDesktopPet - ERROR - WSADÒÆ¶¯´íÎó: arguments did not match any overloaded call:
+  screenGeometry(self, screen: int = -1): first argument of unbound method must have type 'QDesktopWidget'
+  screenGeometry(self, widget: QWidget): first argument of unbound method must have type 'QDesktopWidget'
+  screenGeometry(self, point: QPoint): first argument of unbound method must have type 'QDesktopWidget'
+2026-05-24 20:19:40,928 - MalteseDesktopPet - ERROR - WSADÒÆ¶¯´íÎó: arguments did not match any overloaded call:
+  screenGeometry(self, screen: int = -1): first argument of unbound method must have type 'QDesktopWidget'
+  screenGeometry(self, widget: QWidget): first argument of unbound method must have type 'QDesktopWidget'
+  screenGeometry(self, point: QPoint): first argument of unbound method must have type 'QDesktopWidget'
+2026-05-24 20:19:40,945 - MalteseDesktopPet - ERROR - WSADÒÆ¶¯´íÎó: arguments did not match any overloaded call:
+  screenGeometry(self, screen: int = -1): first argument of unbound method must have type 'QDesktopWidget'
+  screenGeometry(self, widget: QWidget): first argument of unbound method must have type 'QDesktopWidget'
+  screenGeometry(self, point: QPoint): first argument of unbound method must have type 'QDesktopWidget'
+2026-05-24 20:19:40,960 - MalteseDesktopPet - ERROR - WSADÒÆ¶¯´íÎó: arguments did not match any overloaded call:
+  screenGeometry(self, screen: int = -1): first argument of unbound method must have type 'QDesktopWidget'
+  screenGeometry(self, widget: QWidget): first argument of unbound method must have type 'QDesktopWidget'
+  screenGeometry(self, point: QPoint): first argument of unbound method must have type 'QDesktopWidget'
+2026-05-24 20:19:40,976 - MalteseDesktopPet - ERROR - WSADÒÆ¶¯´íÎó: arguments did not match any overloaded call:
+  screenGeometry(self, screen: int = -1): first argument of unbound method must have type 'QDesktopWidget'
+  screenGeometry(self, widget: QWidget): first argument of unbound method must have type 'QDesktopWidget'
+  screenGeometry(self, point: QPoint): first argument of unbound method must have type 'QDesktopWidget'
+2026-05-24 20:19:40,992 - MalteseDesktopPet - ERROR - WSADÒÆ¶¯´íÎó: arguments did not match any overloaded call:
+  screenGeometry(self, screen: int = -1): first argument of unbound method must have type 'QDesktopWidget'
+  screenGeometry(self, widget: QWidget): first argument of unbound method must have type 'QDesktopWidget'
+  screenGeometry(self, point: QPoint): first argument of unbound method must have type 'QDesktopWidget'
+2026-05-24 20:19:41,008 - MalteseDesktopPet - ERROR - WSADÒÆ¶¯´íÎó: arguments did not match any overloaded call:
+  screenGeometry(self, screen: int = -1): first argument of unbound method must have type 'QDesktopWidget'
+  screenGeometry(self, widget: QWidget): first argument of unbound method must have type 'QDesktopWidget'
+  screenGeometry(self, point: QPoint): first argument of unbound method must have type 'QDesktopWidget'
+2026-05-24 20:19:41,025 - MalteseDesktopPet - ERROR - WSADÒÆ¶¯´íÎó: arguments did not match any overloaded call:
+  screenGeometry(self, screen: int = -1): first argument of unbound method must have type 'QDesktopWidget'
+  screenGeometry(self, widget: QWidget): first argument of unbound method must have type 'QDesktopWidget'
+  screenGeometry(self, point: QPoint): first argument of unbound method must have type 'QDesktopWidget'
+2026-05-24 20:19:41,040 - MalteseDesktopPet - ERROR - WSADÒÆ¶¯´íÎó: arguments did not match any overloaded call:
+  screenGeometry(self, screen: int = -1): first argument of unbound method must have type 'QDesktopWidget'
+  screenGeometry(self, widget: QWidget): first argument of unbound method must have type 'QDesktopWidget'
+  screenGeometry(self, point: QPoint): first argument of unbound method must have type 'QDesktopWidget'
+2026-05-24 20:19:41,056 - MalteseDesktopPet - ERROR - WSADÒÆ¶¯´íÎó: arguments did not match any overloaded call:
+  screenGeometry(self, screen: int = -1): first argument of unbound method must have type 'QDesktopWidget'
+  screenGeometry(self, widget: QWidget): first argument of unbound method must have type 'QDesktopWidget'
+  screenGeometry(self, point: QPoint): first argument of unbound method must have type 'QDesktopWidget'
+2026-05-24 20:19:41,072 - MalteseDesktopPet - ERROR - WSADÒÆ¶¯´íÎó: arguments did not match any overloaded call:
+  screenGeometry(self, screen: int = -1): first argument of unbound method must have type 'QDesktopWidget'
+  screenGeometry(self, widget: QWidget): first argument of unbound method must have type 'QDesktopWidget'
+  screenGeometry(self, point: QPoint): first argument of unbound method must have type 'QDesktopWidget'
+2026-05-24 20:19:41,088 - MalteseDesktopPet - ERROR - WSADÒÆ¶¯´íÎó: arguments did not match any overloaded call:
+  screenGeometry(self, screen: int = -1): first argument of unbound method must have type 'QDesktopWidget'
+  screenGeometry(self, widget: QWidget): first argument of unbound method must have type 'QDesktopWidget'
+  screenGeometry(self, point: QPoint): first argument of unbound method must have type 'QDesktopWidget'
+2026-05-24 20:19:41,104 - MalteseDesktopPet - ERROR - WSADÒÆ¶¯´íÎó: arguments did not match any overloaded call:
+  screenGeometry(self, screen: int = -1): first argument of unbound method must have type 'QDesktopWidget'
+  screenGeometry(self, widget: QWidget): first argument of unbound method must have type 'QDesktopWidget'
+  screenGeometry(self, point: QPoint): first argument of unbound method must have type 'QDesktopWidget'
+2026-05-24 20:19:41,120 - MalteseDesktopPet - ERROR - WSADÒÆ¶¯´íÎó: arguments did not match any overloaded call:
+  screenGeometry(self, screen: int = -1): first argument of unbound method must have type 'QDesktopWidget'
+  screenGeometry(self, widget: QWidget): first argument of unbound method must have type 'QDesktopWidget'
+  screenGeometry(self, point: QPoint): first argument of unbound method must have type 'QDesktopWidget'
+2026-05-24 20:19:41,136 - MalteseDesktopPet - ERROR - WSADÒÆ¶¯´íÎó: arguments did not match any overloaded call:
+  screenGeometry(self, screen: int = -1): first argument of unbound method must have type 'QDesktopWidget'
+  screenGeometry(self, widget: QWidget): first argument of unbound method must have type 'QDesktopWidget'
+  screenGeometry(self, point: QPoint): first argument of unbound method must have type 'QDesktopWidget'
+2026-05-24 20:19:41,153 - MalteseDesktopPet - ERROR - WSADÒÆ¶¯´íÎó: arguments did not match any overloaded call:
+  screenGeometry(self, screen: int = -1): first argument of unbound method must have type 'QDesktopWidget'
+  screenGeometry(self, widget: QWidget): first argument of unbound method must have type 'QDesktopWidget'
+  screenGeometry(self, point: QPoint): first argument of unbound method must have type 'QDesktopWidget'
+2026-05-24 20:19:41,168 - MalteseDesktopPet - ERROR - WSADÒÆ¶¯´íÎó: arguments did not match any overloaded call:
+  screenGeometry(self, screen: int = -1): first argument of unbound method must have type 'QDesktopWidget'
+  screenGeometry(self, widget: QWidget): first argument of unbound method must have type 'QDesktopWidget'
+  screenGeometry(self, point: QPoint): first argument of unbound method must have type 'QDesktopWidget'
+2026-05-24 20:19:41,185 - MalteseDesktopPet - ERROR - WSADÒÆ¶¯´íÎó: arguments did not match any overloaded call:
+  screenGeometry(self, screen: int = -1): first argument of unbound method must have type 'QDesktopWidget'
+  screenGeometry(self, widget: QWidget): first argument of unbound method must have type 'QDesktopWidget'
+  screenGeometry(self, point: QPoint): first argument of unbound method must have type 'QDesktopWidget'
+2026-05-24 20:19:41,200 - MalteseDesktopPet - ERROR - WSADÒÆ¶¯´íÎó: arguments did not match any overloaded call:
+  screenGeometry(self, screen: int = -1): first argument of unbound method must have type 'QDesktopWidget'
+  screenGeometry(self, widget: QWidget): first argument of unbound method must have type 'QDesktopWidget'
+  screenGeometry(self, point: QPoint): first argument of unbound method must have type 'QDesktopWidget'
+2026-05-24 20:19:41,216 - MalteseDesktopPet - ERROR - WSADÒÆ¶¯´íÎó: arguments did not match any overloaded call:
+  screenGeometry(self, screen: int = -1): first argument of unbound method must have type 'QDesktopWidget'
+  screenGeometry(self, widget: QWidget): first argument of unbound method must have type 'QDesktopWidget'
+  screenGeometry(self, point: QPoint): first argument of unbound method must have type 'QDesktopWidget'
+2026-05-24 20:19:41,232 - MalteseDesktopPet - ERROR - WSADÒÆ¶¯´íÎó: arguments did not match any overloaded call:
+  screenGeometry(self, screen: int = -1): first argument of unbound method must have type 'QDesktopWidget'
+  screenGeometry(self, widget: QWidget): first argument of unbound method must have type 'QDesktopWidget'
+  screenGeometry(self, point: QPoint): first argument of unbound method must have type 'QDesktopWidget'
+2026-05-24 20:19:41,248 - MalteseDesktopPet - ERROR - WSADÒÆ¶¯´íÎó: arguments did not match any overloaded call:
+  screenGeometry(self, screen: int = -1): first argument of unbound method must have type 'QDesktopWidget'
+  screenGeometry(self, widget: QWidget): first argument of unbound method must have type 'QDesktopWidget'
+  screenGeometry(self, point: QPoint): first argument of unbound method must have type 'QDesktopWidget'
+2026-05-24 20:19:41,264 - MalteseDesktopPet - ERROR - WSADÒÆ¶¯´íÎó: arguments did not match any overloaded call:
+  screenGeometry(self, screen: int = -1): first argument of unbound method must have type 'QDesktopWidget'
+  screenGeometry(self, widget: QWidget): first argument of unbound method must have type 'QDesktopWidget'
+  screenGeometry(self, point: QPoint): first argument of unbound method must have type 'QDesktopWidget'
+2026-05-24 20:19:41,280 - MalteseDesktopPet - ERROR - WSADÒÆ¶¯´íÎó: arguments did not match any overloaded call:
+  screenGeometry(self, screen: int = -1): first argument of unbound method must have type 'QDesktopWidget'
+  screenGeometry(self, widget: QWidget): first argument of unbound method must have type 'QDesktopWidget'
+  screenGeometry(self, point: QPoint): first argument of unbound method must have type 'QDesktopWidget'
+2026-05-24 20:19:47,377 - MalteseDesktopPet - ERROR - WSADÒÆ¶¯´íÎó: arguments did not match any overloaded call:
+  screenGeometry(self, screen: int = -1): first argument of unbound method must have type 'QDesktopWidget'
+  screenGeometry(self, widget: QWidget): first argument of unbound method must have type 'QDesktopWidget'
+  screenGeometry(self, point: QPoint): first argument of unbound method must have type 'QDesktopWidget'
+2026-05-24 20:19:47,393 - MalteseDesktopPet - ERROR - WSADÒÆ¶¯´íÎó: arguments did not match any overloaded call:
+  screenGeometry(self, screen: int = -1): first argument of unbound method must have type 'QDesktopWidget'
+  screenGeometry(self, widget: QWidget): first argument of unbound method must have type 'QDesktopWidget'
+  screenGeometry(self, point: QPoint): first argument of unbound method must have type 'QDesktopWidget'
+2026-05-24 20:19:47,409 - MalteseDesktopPet - ERROR - WSADÒÆ¶¯´íÎó: arguments did not match any overloaded call:
+  screenGeometry(self, screen: int = -1): first argument of unbound method must have type 'QDesktopWidget'
+  screenGeometry(self, widget: QWidget): first argument of unbound method must have type 'QDesktopWidget'
+  screenGeometry(self, point: QPoint): first argument of unbound method must have type 'QDesktopWidget'
+2026-05-24 20:19:47,424 - MalteseDesktopPet - ERROR - WSADÒÆ¶¯´íÎó: arguments did not match any overloaded call:
+  screenGeometry(self, screen: int = -1): first argument of unbound method must have type 'QDesktopWidget'
+  screenGeometry(self, widget: QWidget): first argument of unbound method must have type 'QDesktopWidget'
+  screenGeometry(self, point: QPoint): first argument of unbound method must have type 'QDesktopWidget'
+2026-05-24 20:19:47,440 - MalteseDesktopPet - ERROR - WSADÒÆ¶¯´íÎó: arguments did not match any overloaded call:
+  screenGeometry(self, screen: int = -1): first argument of unbound method must have type 'QDesktopWidget'
+  screenGeometry(self, widget: QWidget): first argument of unbound method must have type 'QDesktopWidget'
+  screenGeometry(self, point: QPoint): first argument of unbound method must have type 'QDesktopWidget'
+2026-05-24 20:19:47,459 - MalteseDesktopPet - ERROR - WSADÒÆ¶¯´íÎó: arguments did not match any overloaded call:
+  screenGeometry(self, screen: int = -1): first argument of unbound method must have type 'QDesktopWidget'
+  screenGeometry(self, widget: QWidget): first argument of unbound method must have type 'QDesktopWidget'
+  screenGeometry(self, point: QPoint): first argument of unbound method must have type 'QDesktopWidget'
+2026-05-24 20:19:47,472 - MalteseDesktopPet - ERROR - WSADÒÆ¶¯´íÎó: arguments did not match any overloaded call:
+  screenGeometry(self, screen: int = -1): first argument of unbound method must have type 'QDesktopWidget'
+  screenGeometry(self, widget: QWidget): first argument of unbound method must have type 'QDesktopWidget'
+  screenGeometry(self, point: QPoint): first argument of unbound method must have type 'QDesktopWidget'
+2026-05-24 20:19:47,487 - MalteseDesktopPet - ERROR - WSADÒÆ¶¯´íÎó: arguments did not match any overloaded call:
+  screenGeometry(self, screen: int = -1): first argument of unbound method must have type 'QDesktopWidget'
+  screenGeometry(self, widget: QWidget): first argument of unbound method must have type 'QDesktopWidget'
+  screenGeometry(self, point: QPoint): first argument of unbound method must have type 'QDesktopWidget'
+2026-05-24 20:19:47,505 - MalteseDesktopPet - ERROR - WSADÒÆ¶¯´íÎó: arguments did not match any overloaded call:
+  screenGeometry(self, screen: int = -1): first argument of unbound method must have type 'QDesktopWidget'
+  screenGeometry(self, widget: QWidget): first argument of unbound method must have type 'QDesktopWidget'
+  screenGeometry(self, point: QPoint): first argument of unbound method must have type 'QDesktopWidget'
+2026-05-24 20:19:47,520 - MalteseDesktopPet - ERROR - WSADÒÆ¶¯´íÎó: arguments did not match any overloaded call:
+  screenGeometry(self, screen: int = -1): first argument of unbound method must have type 'QDesktopWidget'
+  screenGeometry(self, widget: QWidget): first argument of unbound method must have type 'QDesktopWidget'
+  screenGeometry(self, point: QPoint): first argument of unbound method must have type 'QDesktopWidget'
+2026-05-24 20:19:47,536 - MalteseDesktopPet - ERROR - WSADÒÆ¶¯´íÎó: arguments did not match any overloaded call:
+  screenGeometry(self, screen: int = -1): first argument of unbound method must have type 'QDesktopWidget'
+  screenGeometry(self, widget: QWidget): first argument of unbound method must have type 'QDesktopWidget'
+  screenGeometry(self, point: QPoint): first argument of unbound method must have type 'QDesktopWidget'
+2026-05-24 20:19:47,552 - MalteseDesktopPet - ERROR - WSADÒÆ¶¯´íÎó: arguments did not match any overloaded call:
+  screenGeometry(self, screen: int = -1): first argument of unbound method must have type 'QDesktopWidget'
+  screenGeometry(self, widget: QWidget): first argument of unbound method must have type 'QDesktopWidget'
+  screenGeometry(self, point: QPoint): first argument of unbound method must have type 'QDesktopWidget'
+2026-05-24 20:19:47,569 - MalteseDesktopPet - ERROR - WSADÒÆ¶¯´íÎó: arguments did not match any overloaded call:
+  screenGeometry(self, screen: int = -1): first argument of unbound method must have type 'QDesktopWidget'
+  screenGeometry(self, widget: QWidget): first argument of unbound method must have type 'QDesktopWidget'
+  screenGeometry(self, point: QPoint): first argument of unbound method must have type 'QDesktopWidget'
+2026-05-24 20:19:47,585 - MalteseDesktopPet - ERROR - WSADÒÆ¶¯´íÎó: arguments did not match any overloaded call:
+  screenGeometry(self, screen: int = -1): first argument of unbound method must have type 'QDesktopWidget'
+  screenGeometry(self, widget: QWidget): first argument of unbound method must have type 'QDesktopWidget'
+  screenGeometry(self, point: QPoint): first argument of unbound method must have type 'QDesktopWidget'
+2026-05-24 20:19:47,600 - MalteseDesktopPet - ERROR - WSADÒÆ¶¯´íÎó: arguments did not match any overloaded call:
+  screenGeometry(self, screen: int = -1): first argument of unbound method must have type 'QDesktopWidget'
+  screenGeometry(self, widget: QWidget): first argument of unbound method must have type 'QDesktopWidget'
+  screenGeometry(self, point: QPoint): first argument of unbound method must have type 'QDesktopWidget'
+2026-05-24 20:19:47,616 - MalteseDesktopPet - ERROR - WSADÒÆ¶¯´íÎó: arguments did not match any overloaded call:
+  screenGeometry(self, screen: int = -1): first argument of unbound method must have type 'QDesktopWidget'
+  screenGeometry(self, widget: QWidget): first argument of unbound method must have type 'QDesktopWidget'
+  screenGeometry(self, point: QPoint): first argument of unbound method must have type 'QDesktopWidget'
+2026-05-24 20:19:47,632 - MalteseDesktopPet - ERROR - WSADÒÆ¶¯´íÎó: arguments did not match any overloaded call:
+  screenGeometry(self, screen: int = -1): first argument of unbound method must have type 'QDesktopWidget'
+  screenGeometry(self, widget: QWidget): first argument of unbound method must have type 'QDesktopWidget'
+  screenGeometry(self, point: QPoint): first argument of unbound method must have type 'QDesktopWidget'
+2026-05-24 20:19:47,648 - MalteseDesktopPet - ERROR - WSADÒÆ¶¯´íÎó: arguments did not match any overloaded call:
+  screenGeometry(self, screen: int = -1): first argument of unbound method must have type 'QDesktopWidget'
+  screenGeometry(self, widget: QWidget): first argument of unbound method must have type 'QDesktopWidget'
+  screenGeometry(self, point: QPoint): first argument of unbound method must have type 'QDesktopWidget'
+2026-05-24 20:19:47,664 - MalteseDesktopPet - ERROR - WSADÒÆ¶¯´íÎó: arguments did not match any overloaded call:
+  screenGeometry(self, screen: int = -1): first argument of unbound method must have type 'QDesktopWidget'
+  screenGeometry(self, widget: QWidget): first argument of unbound method must have type 'QDesktopWidget'
+  screenGeometry(self, point: QPoint): first argument of unbound method must have type 'QDesktopWidget'
+2026-05-24 20:19:47,680 - MalteseDesktopPet - ERROR - WSADÒÆ¶¯´íÎó: arguments did not match any overloaded call:
+  screenGeometry(self, screen: int = -1): first argument of unbound method must have type 'QDesktopWidget'
+  screenGeometry(self, widget: QWidget): first argument of unbound method must have type 'QDesktopWidget'
+  screenGeometry(self, point: QPoint): first argument of unbound method must have type 'QDesktopWidget'
+2026-05-24 20:19:47,696 - MalteseDesktopPet - ERROR - WSADÒÆ¶¯´íÎó: arguments did not match any overloaded call:
+  screenGeometry(self, screen: int = -1): first argument of unbound method must have type 'QDesktopWidget'
+  screenGeometry(self, widget: QWidget): first argument of unbound method must have type 'QDesktopWidget'
+  screenGeometry(self, point: QPoint): first argument of unbound method must have type 'QDesktopWidget'
+2026-05-24 20:19:47,713 - MalteseDesktopPet - ERROR - WSADÒÆ¶¯´íÎó: arguments did not match any overloaded call:
+  screenGeometry(self, screen: int = -1): first argument of unbound method must have type 'QDesktopWidget'
+  screenGeometry(self, widget: QWidget): first argument of unbound method must have type 'QDesktopWidget'
+  screenGeometry(self, point: QPoint): first argument of unbound method must have type 'QDesktopWidget'
+2026-05-24 20:19:47,727 - MalteseDesktopPet - ERROR - WSADÒÆ¶¯´íÎó: arguments did not match any overloaded call:
+  screenGeometry(self, screen: int = -1): first argument of unbound method must have type 'QDesktopWidget'
+  screenGeometry(self, widget: QWidget): first argument of unbound method must have type 'QDesktopWidget'
+  screenGeometry(self, point: QPoint): first argument of unbound method must have type 'QDesktopWidget'
+2026-05-24 20:19:47,744 - MalteseDesktopPet - ERROR - WSADÒÆ¶¯´íÎó: arguments did not match any overloaded call:
+  screenGeometry(self, screen: int = -1): first argument of unbound method must have type 'QDesktopWidget'
+  screenGeometry(self, widget: QWidget): first argument of unbound method must have type 'QDesktopWidget'
+  screenGeometry(self, point: QPoint): first argument of unbound method must have type 'QDesktopWidget'
+2026-05-24 20:19:47,760 - MalteseDesktopPet - ERROR - WSADÒÆ¶¯´íÎó: arguments did not match any overloaded call:
+  screenGeometry(self, screen: int = -1): first argument of unbound method must have type 'QDesktopWidget'
+  screenGeometry(self, widget: QWidget): first argument of unbound method must have type 'QDesktopWidget'
+  screenGeometry(self, point: QPoint): first argument of unbound method must have type 'QDesktopWidget'
+2026-05-24 20:19:47,776 - MalteseDesktopPet - ERROR - WSADÒÆ¶¯´íÎó: arguments did not match any overloaded call:
+  screenGeometry(self, screen: int = -1): first argument of unbound method must have type 'QDesktopWidget'
+  screenGeometry(self, widget: QWidget): first argument of unbound method must have type 'QDesktopWidget'
+  screenGeometry(self, point: QPoint): first argument of unbound method must have type 'QDesktopWidget'
+2026-05-24 20:19:47,792 - MalteseDesktopPet - ERROR - WSADÒÆ¶¯´íÎó: arguments did not match any overloaded call:
+  screenGeometry(self, screen: int = -1): first argument of unbound method must have type 'QDesktopWidget'
+  screenGeometry(self, widget: QWidget): first argument of unbound method must have type 'QDesktopWidget'
+  screenGeometry(self, point: QPoint): first argument of unbound method must have type 'QDesktopWidget'
+2026-05-24 20:19:47,808 - MalteseDesktopPet - ERROR - WSADÒÆ¶¯´íÎó: arguments did not match any overloaded call:
+  screenGeometry(self, screen: int = -1): first argument of unbound method must have type 'QDesktopWidget'
+  screenGeometry(self, widget: QWidget): first argument of unbound method must have type 'QDesktopWidget'
+  screenGeometry(self, point: QPoint): first argument of unbound method must have type 'QDesktopWidget'
+2026-05-24 20:19:47,824 - MalteseDesktopPet - ERROR - WSADÒÆ¶¯´íÎó: arguments did not match any overloaded call:
+  screenGeometry(self, screen: int = -1): first argument of unbound method must have type 'QDesktopWidget'
+  screenGeometry(self, widget: QWidget): first argument of unbound method must have type 'QDesktopWidget'
+  screenGeometry(self, point: QPoint): first argument of unbound method must have type 'QDesktopWidget'
+2026-05-24 20:19:47,842 - MalteseDesktopPet - ERROR - WSADÒÆ¶¯´íÎó: arguments did not match any overloaded call:
+  screenGeometry(self, screen: int = -1): first argument of unbound method must have type 'QDesktopWidget'
+  screenGeometry(self, widget: QWidget): first argument of unbound method must have type 'QDesktopWidget'
+  screenGeometry(self, point: QPoint): first argument of unbound method must have type 'QDesktopWidget'
+2026-05-24 20:19:47,856 - MalteseDesktopPet - ERROR - WSADÒÆ¶¯´íÎó: arguments did not match any overloaded call:
+  screenGeometry(self, screen: int = -1): first argument of unbound method must have type 'QDesktopWidget'
+  screenGeometry(self, widget: QWidget): first argument of unbound method must have type 'QDesktopWidget'
+  screenGeometry(self, point: QPoint): first argument of unbound method must have type 'QDesktopWidget'
+2026-05-24 20:19:47,872 - MalteseDesktopPet - ERROR - WSADÒÆ¶¯´íÎó: arguments did not match any overloaded call:
+  screenGeometry(self, screen: int = -1): first argument of unbound method must have type 'QDesktopWidget'
+  screenGeometry(self, widget: QWidget): first argument of unbound method must have type 'QDesktopWidget'
+  screenGeometry(self, point: QPoint): first argument of unbound method must have type 'QDesktopWidget'
+2026-05-24 20:19:47,888 - MalteseDesktopPet - ERROR - WSADÒÆ¶¯´íÎó: arguments did not match any overloaded call:
+  screenGeometry(self, screen: int = -1): first argument of unbound method must have type 'QDesktopWidget'
+  screenGeometry(self, widget: QWidget): first argument of unbound method must have type 'QDesktopWidget'
+  screenGeometry(self, point: QPoint): first argument of unbound method must have type 'QDesktopWidget'
+2026-05-24 20:19:47,905 - MalteseDesktopPet - ERROR - WSADÒÆ¶¯´íÎó: arguments did not match any overloaded call:
+  screenGeometry(self, screen: int = -1): first argument of unbound method must have type 'QDesktopWidget'
+  screenGeometry(self, widget: QWidget): first argument of unbound method must have type 'QDesktopWidget'
+  screenGeometry(self, point: QPoint): first argument of unbound method must have type 'QDesktopWidget'
+2026-05-24 20:19:47,922 - MalteseDesktopPet - ERROR - WSADÒÆ¶¯´íÎó: arguments did not match any overloaded call:
+  screenGeometry(self, screen: int = -1): first argument of unbound method must have type 'QDesktopWidget'
+  screenGeometry(self, widget: QWidget): first argument of unbound method must have type 'QDesktopWidget'
+  screenGeometry(self, point: QPoint): first argument of unbound method must have type 'QDesktopWidget'
+2026-05-24 20:19:47,937 - MalteseDesktopPet - ERROR - WSADÒÆ¶¯´íÎó: arguments did not match any overloaded call:
+  screenGeometry(self, screen: int = -1): first argument of unbound method must have type 'QDesktopWidget'
+  screenGeometry(self, widget: QWidget): first argument of unbound method must have type 'QDesktopWidget'
+  screenGeometry(self, point: QPoint): first argument of unbound method must have type 'QDesktopWidget'
+2026-05-24 20:19:47,952 - MalteseDesktopPet - ERROR - WSADÒÆ¶¯´íÎó: arguments did not match any overloaded call:
+  screenGeometry(self, screen: int = -1): first argument of unbound method must have type 'QDesktopWidget'
+  screenGeometry(self, widget: QWidget): first argument of unbound method must have type 'QDesktopWidget'
+  screenGeometry(self, point: QPoint): first argument of unbound method must have type 'QDesktopWidget'
+2026-05-24 20:19:47,967 - MalteseDesktopPet - ERROR - WSADÒÆ¶¯´íÎó: arguments did not match any overloaded call:
+  screenGeometry(self, screen: int = -1): first argument of unbound method must have type 'QDesktopWidget'
+  screenGeometry(self, widget: QWidget): first argument of unbound method must have type 'QDesktopWidget'
+  screenGeometry(self, point: QPoint): first argument of unbound method must have type 'QDesktopWidget'
+2026-05-24 20:19:47,984 - MalteseDesktopPet - ERROR - WSADÒÆ¶¯´íÎó: arguments did not match any overloaded call:
+  screenGeometry(self, screen: int = -1): first argument of unbound method must have type 'QDesktopWidget'
+  screenGeometry(self, widget: QWidget): first argument of unbound method must have type 'QDesktopWidget'
+  screenGeometry(self, point: QPoint): first argument of unbound method must have type 'QDesktopWidget'
+2026-05-24 20:19:48,002 - MalteseDesktopPet - ERROR - WSADÒÆ¶¯´íÎó: arguments did not match any overloaded call:
+  screenGeometry(self, screen: int = -1): first argument of unbound method must have type 'QDesktopWidget'
+  screenGeometry(self, widget: QWidget): first argument of unbound method must have type 'QDesktopWidget'
+  screenGeometry(self, point: QPoint): first argument of unbound method must have type 'QDesktopWidget'
+2026-05-24 20:19:48,016 - MalteseDesktopPet - ERROR - WSADÒÆ¶¯´íÎó: arguments did not match any overloaded call:
+  screenGeometry(self, screen: int = -1): first argument of unbound method must have type 'QDesktopWidget'
+  screenGeometry(self, widget: QWidget): first argument of unbound method must have type 'QDesktopWidget'
+  screenGeometry(self, point: QPoint): first argument of unbound method must have type 'QDesktopWidget'
+2026-05-24 20:19:48,032 - MalteseDesktopPet - ERROR - WSADÒÆ¶¯´íÎó: arguments did not match any overloaded call:
+  screenGeometry(self, screen: int = -1): first argument of unbound method must have type 'QDesktopWidget'
+  screenGeometry(self, widget: QWidget): first argument of unbound method must have type 'QDesktopWidget'
+  screenGeometry(self, point: QPoint): first argument of unbound method must have type 'QDesktopWidget'
+2026-05-24 20:19:48,048 - MalteseDesktopPet - ERROR - WSADÒÆ¶¯´íÎó: arguments did not match any overloaded call:
+  screenGeometry(self, screen: int = -1): first argument of unbound method must have type 'QDesktopWidget'
+  screenGeometry(self, widget: QWidget): first argument of unbound method must have type 'QDesktopWidget'
+  screenGeometry(self, point: QPoint): first argument of unbound method must have type 'QDesktopWidget'
+2026-05-24 20:19:48,064 - MalteseDesktopPet - ERROR - WSADÒÆ¶¯´íÎó: arguments did not match any overloaded call:
+  screenGeometry(self, screen: int = -1): first argument of unbound method must have type 'QDesktopWidget'
+  screenGeometry(self, widget: QWidget): first argument of unbound method must have type 'QDesktopWidget'
+  screenGeometry(self, point: QPoint): first argument of unbound method must have type 'QDesktopWidget'
+2026-05-24 20:20:09,424 - MalteseDesktopPet - ERROR - ÌøÔ¾´íÎó: arguments did not match any overloaded call:
+  QPoint(): too many arguments
+  QPoint(xpos: int, ypos: int): argument 2 has unexpected type 'float'
+  QPoint(a0: QPoint): argument 1 has unexpected type 'int'
+2026-05-24 20:20:37,991 - MalteseDesktopPet - ERROR - ÌøÔ¾´íÎó: arguments did not match any overloaded call:
+  QPoint(): too many arguments
+  QPoint(xpos: int, ypos: int): argument 2 has unexpected type 'float'
+  QPoint(a0: QPoint): argument 1 has unexpected type 'int'
+[26448:24752:0607/195001.515:WARNING:t_skinfilemap.cpp(56)] SGRenderLog:CheckUpdate newMem.OpenMem failed, szNewMem:Local\sgime_skin.v2.filemap.sogouime err:ç³»ç»Ÿé”™è¯¯2: ç³»ç»Ÿæ‰¾ä¸åˆ°æŒ‡å®šçš„æ–‡ä»¶ã€‚  
+æ‰“å¼€Filemapå¤±è´¥: Local\sgime_skin.v2.filemap.sogouime2558e362e17
+[26448:24752:0607/195001.515:WARNING:t_skinfilemap.cpp(65)] SGRenderLog:CheckUpdate finish: old version:1
+[26448:24752:0607/195001.515:WARNING:t_skinfilemap.cpp(67)] SGRenderLog:CheckUpdate finish: new version:2
+[26448:24752:0607/195001.698:WARNING:t_skinfilemap.cpp(63)] SGRenderLog:CheckUpdate newMem.OpenMem Suc, szNewMem:Local\sgime_skin.Dpi192.v2.filemap.sogouime
+[26448:24752:0607/195001.698:WARNING:t_skinfilemap.cpp(65)] SGRenderLog:CheckUpdate finish: old version:2
+[26448:24752:0607/195001.698:WARNING:t_skinfilemap.cpp(67)] SGRenderLog:CheckUpdate finish: new version:2
